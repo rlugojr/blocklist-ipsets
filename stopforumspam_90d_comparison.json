@@ -104,7 +104,7 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 1781,
+		"ips": 1636,
 		"common": 4
 	},
 	{
@@ -122,25 +122,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4477,
+		"ips": 4476,
 		"common": 11
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5601,
+		"ips": 5605,
 		"common": 14
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 20416,
+		"ips": 20422,
 		"common": 73
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9203,
+		"ips": 9202,
 		"common": 20
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8979,
+		"ips": 8984,
 		"common": 537
 	},
 	{
@@ -428,8 +428,8 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 11272,
-		"common": 73
+		"ips": 11210,
+		"common": 74
 	},
 	{
 		"name": "dm_tor",
@@ -674,7 +674,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9581878,
+		"ips": 9581883,
 		"common": 11691
 	},
 	{
@@ -1490,8 +1490,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 78380,
-		"common": 1832
+		"ips": 78264,
+		"common": 1834
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1502,8 +1502,8 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 712852,
-		"common": 5145
+		"ips": 713025,
+		"common": 5149
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1514,8 +1514,8 @@
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6262055,
-		"common": 4042
+		"ips": 6262062,
+		"common": 4044
 	},
 	{
 		"name": "sorbs_zombie",
@@ -1688,25 +1688,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 353,
+		"ips": 358,
 		"common": 11
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 439,
-		"common": 37
+		"ips": 445,
+		"common": 45
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 13
+		"common": 26
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 138,
+		"ips": 137,
 		"common": 1
 	},
 	{
@@ -1714,6 +1714,12 @@
 		"category": "spam",
 		"ips": 14,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 450,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
