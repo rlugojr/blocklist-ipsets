@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 53990,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -44,13 +44,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 41709,
-		"common": 85
+		"ips": 41797,
+		"common": 84
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8551,
+		"ips": 8516,
 		"common": 10
 	},
 	{
@@ -93,13 +93,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 12512,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 10563,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "dshield_1d",
@@ -120,6 +120,12 @@
 		"common": 1
 	},
 	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 872,
+		"common": 1
+	},
+	{
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1661,
@@ -128,7 +134,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12261,
+		"ips": 12259,
 		"common": 1
 	},
 	{
@@ -146,20 +152,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 52308,
-		"common": 85
+		"ips": 52405,
+		"common": 84
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146037,
-		"common": 4
+		"ips": 146117,
+		"common": 3
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9581572,
-		"common": 11
+		"ips": 9581545,
+		"common": 10
 	},
 	{
 		"name": "firehol_webserver",
@@ -176,14 +182,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1399,
+		"ips": 1412,
 		"common": 16
-	},
-	{
-		"name": "haley_ssh",
-		"category": "attacks",
-		"ips": 23988,
-		"common": 1
 	},
 	{
 		"name": "hphosts_emd",
@@ -243,48 +243,36 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 21042,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 6446,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 29653,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 12990,
-		"common": 2
-	},
-	{
-		"name": "openbl_7d",
-		"category": "attacks",
-		"ips": 1243,
 		"common": 1
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 15604,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 140450,
-		"common": 2
-	},
-	{
-		"name": "packetmail",
-		"category": "reputation",
-		"ips": 2407,
 		"common": 1
 	},
 	{
@@ -393,7 +381,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29896,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ftp",
