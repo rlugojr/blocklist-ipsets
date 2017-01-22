@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 42536,
+		"ips": 41949,
 		"common": 83
 	},
 	{
@@ -57,7 +57,7 @@
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1671,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "cleantalk_30d",
@@ -93,13 +93,31 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 12550,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 10604,
-		"common": 7
+		"common": 8
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 9472,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 46848,
+		"common": 1
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 19456,
+		"common": 1
 	},
 	{
 		"name": "et_compromised",
@@ -122,14 +140,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53122,
+		"ips": 52537,
 		"common": 83
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 145951,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "firehol_level4",
@@ -141,7 +159,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 51030662,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "gofferje_sip",
@@ -177,7 +195,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762625881,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_level2",
@@ -189,7 +207,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -249,7 +267,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50791560,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "ransomware_feed",
@@ -261,7 +279,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375372976,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -279,7 +297,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "spamhaus_drop",
@@ -351,6 +369,6 @@
 		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 449,
-		"common": 1
+		"common": 2
 	}
 ]
