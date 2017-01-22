@@ -21,7 +21,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8245,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -39,13 +39,13 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 7389,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 41466,
-		"common": 82
+		"ips": 41482,
+		"common": 83
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -165,7 +165,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9581643,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "firehol_webserver",
@@ -184,6 +184,12 @@
 		"category": "attacks",
 		"ips": 1426,
 		"common": 17
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 23989,
+		"common": 1
 	},
 	{
 		"name": "hphosts_emd",
@@ -240,10 +246,22 @@
 		"common": 1
 	},
 	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
+		"common": 1
+	},
+	{
+		"name": "nullsecure",
+		"category": "reputation",
+		"ips": 29439,
+		"common": 1
+	},
+	{
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 21042,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "openbl_30d",
@@ -255,7 +273,7 @@
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 29653,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "openbl_60d",
@@ -279,7 +297,7 @@
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 140466,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "packetmail",

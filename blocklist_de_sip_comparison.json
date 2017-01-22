@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 41466,
-		"common": 162
+		"ips": 41482,
+		"common": 163
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -76,6 +76,12 @@
 		"category": "reputation",
 		"ips": 17320,
 		"common": 3
+	},
+	{
+		"name": "cybercrime",
+		"category": "malware",
+		"ips": 14887,
+		"common": 1
 	},
 	{
 		"name": "darklist_de",
@@ -201,7 +207,13 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9581643,
-		"common": 17
+		"common": 18
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 18904,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -249,6 +261,12 @@
 		"name": "iblocklist_isp_aol",
 		"category": "organizations",
 		"ips": 6627584,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
 		"common": 1
 	},
 	{
@@ -363,7 +381,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375372976,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "sorbs_noserver",
