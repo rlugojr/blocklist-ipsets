@@ -182,7 +182,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8668,
+		"ips": 8660,
 		"common": 12
 	},
 	{
@@ -294,21 +294,57 @@
 		"common": 109
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2965,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 6598,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 58854,
-		"common": 2
+		"ips": 58855,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 23394,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new",
+		"category": "abuse",
+		"ips": 965,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new_1d",
+		"category": "abuse",
+		"ips": 2168,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 39141,
+		"ips": 39139,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_new_7d",
+		"category": "abuse",
+		"ips": 11335,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 28555,
+		"ips": 28560,
 		"common": 1
 	},
 	{
@@ -500,19 +536,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11154,
-		"common": 1
+		"ips": 11123,
+		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 226098,
-		"common": 13
+		"ips": 226104,
+		"common": 14
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 71267,
+		"ips": 71263,
 		"common": 18
 	},
 	{
@@ -536,13 +572,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9581647,
+		"ips": 9581639,
 		"common": 342
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 58232,
+		"ips": 58228,
 		"common": 1
 	},
 	{
@@ -554,8 +590,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 51030672,
-		"common": 2042
+		"ips": 51030662,
+		"common": 2040
 	},
 	{
 		"name": "fullbogons",
@@ -590,8 +626,8 @@
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
-		"ips": 23617,
-		"common": 387
+		"ips": 23600,
+		"common": 386
 	},
 	{
 		"name": "hphosts_exp",
