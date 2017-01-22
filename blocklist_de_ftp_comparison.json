@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 45323,
-		"common": 99
+		"ips": 45520,
+		"common": 100
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -141,13 +141,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 12932,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 11005,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -182,8 +182,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56921,
-		"common": 99
+		"ips": 57118,
+		"common": 100
 	},
 	{
 		"name": "firehol_level3",
@@ -324,6 +324,12 @@
 		"common": 3
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 2348,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2227,
@@ -436,5 +442,11 @@
 		"category": "attacks",
 		"ips": 358,
 		"common": 25
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 449,
+		"common": 1
 	}
 ]
