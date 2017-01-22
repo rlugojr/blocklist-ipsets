@@ -9,12 +9,18 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 241,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "bambenek_ramnit",
 		"category": "malware",
 		"ips": 11,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 34390,
 		"common": 1
 	},
 	{
@@ -39,7 +45,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 659885235,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "firehol_level3",
@@ -57,7 +63,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 51030549,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_ats",
@@ -69,7 +75,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 23617,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_fsa",
@@ -93,7 +99,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 21067,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_wrz",
@@ -102,9 +108,9 @@
 		"common": 2
 	},
 	{
-		"name": "iblocklist_bogons",
-		"category": "unrouteable",
-		"ips": 656175779,
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762625881,
 		"common": 1
 	},
 	{
@@ -120,10 +126,16 @@
 		"common": 2
 	},
 	{
+		"name": "iblocklist_yoyo_adservers",
+		"category": "organizations",
+		"ips": 12108,
+		"common": 1
+	},
+	{
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "jigsaw_malware",
@@ -159,6 +171,18 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 154921,
+		"common": 1
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 10147,
+		"common": 1
+	},
+	{
+		"name": "yoyo_adservers",
+		"category": "organizations",
+		"ips": 12792,
 		"common": 1
 	}
 ]
