@@ -50,13 +50,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 43617,
+		"ips": 43190,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8814,
+		"ips": 8816,
 		"common": 1
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54114,
+		"ips": 53686,
 		"common": 2
 	},
 	{
@@ -136,6 +136,12 @@
 		"category": "attacks",
 		"ips": 1290,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 656175779,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -212,20 +218,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 449,
+		"ips": 446,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 152,
+		"ips": 154,
 		"common": 3
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 447,
-		"common": 1
 	},
 	{
 		"name": "voipbl",
