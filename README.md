@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Mon Jan 23 04:26:30 UTC 2017.
+The following list was automatically generated on Mon Jan 23 04:28:44 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -279,7 +279,7 @@ bambenek_p2pgoz|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/
 [bds_atif](http://iplists.firehol.org/?ipset=bds_atif)|Artillery Threat Intelligence Feed and Banlist Feed|ipv4 hash:ip|3556 unique IPs|updated every 1 day  from [this link](https://www.binarydefense.com/banlist.txt)
 [bi_any_2_1d](http://iplists.firehol.org/?ipset=bi_any_2_1d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category any with score above 2 and age less than 1d|ipv4 hash:ip|390 unique IPs|updated every 30 mins  from [this link](https://www.badips.com/get/list/any/2?age=1d)
 [bi_any_2_30d](http://iplists.firehol.org/?ipset=bi_any_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category any with score above 2 and age less than 30d|ipv4 hash:ip|8245 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/any/2?age=30d)
-[bi_any_2_7d](http://iplists.firehol.org/?ipset=bi_any_2_7d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category any with score above 2 and age less than 7d|ipv4 hash:ip|3585 unique IPs|updated every 6 hours  from [this link](https://www.badips.com/get/list/any/2?age=7d)
+[bi_any_2_7d](http://iplists.firehol.org/?ipset=bi_any_2_7d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category any with score above 2 and age less than 7d|ipv4 hash:ip|3590 unique IPs|updated every 6 hours  from [this link](https://www.badips.com/get/list/any/2?age=7d)
 [bi_bruteforce_2_30d](http://iplists.firehol.org/?ipset=bi_bruteforce_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category bruteforce with score above 2 and age less than 30d|ipv4 hash:ip|0 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/bruteforce/2?age=30d)
 [bi_ftp_2_30d](http://iplists.firehol.org/?ipset=bi_ftp_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category ftp with score above 2 and age less than 30d|ipv4 hash:ip|105 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/ftp/2?age=30d)
 [bi_http_2_30d](http://iplists.firehol.org/?ipset=bi_http_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category http with score above 2 and age less than 30d|ipv4 hash:ip|281 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/http/2?age=30d)
@@ -614,7 +614,7 @@ bambenek_p2pgoz|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/
 [dronebl_dns_mx_on_irc](http://iplists.firehol.org/?ipset=dronebl_dns_mx_on_irc)|[DroneBL.org](https://dronebl.org) List of IPs of DNS / MX hostname detected on IRC. It includes IPs for which DroneBL responds with 18.|ipv4 hash:net|2575 subnets, 2622 unique IPs|
 [dronebl_irc_drones](http://iplists.firehol.org/?ipset=dronebl_irc_drones)|[DroneBL.org](https://dronebl.org) List of IRC spam drones (litmus/sdbot/fyle). It includes IPs for which DroneBL responds with 3.|ipv4 hash:net|37823 subnets, 38254 unique IPs|
 [dronebl_unknown](http://iplists.firehol.org/?ipset=dronebl_unknown)|[DroneBL.org](https://dronebl.org) List of IPs of uncategorized threats. It includes IPs for which DroneBL responds with 255.|ipv4 hash:net|32 subnets, 33 unique IPs|
-[dronebl_worms_bots](http://iplists.firehol.org/?ipset=dronebl_worms_bots)|[DroneBL.org](https://dronebl.org) IPs of unknown worms or spambots. It includes IPs for which DroneBL responds with 6|ipv4 hash:net|34116 subnets, 238672 unique IPs|
+[dronebl_worms_bots](http://iplists.firehol.org/?ipset=dronebl_worms_bots)|[DroneBL.org](https://dronebl.org) IPs of unknown worms or spambots. It includes IPs for which DroneBL responds with 6|ipv4 hash:net|34127 subnets, 238684 unique IPs|
 [dshield](http://iplists.firehol.org/?ipset=dshield)|[DShield.org](https://dshield.org/) top 20 attacking class C (/24) subnets over the last three days|ipv4 hash:net|19 subnets, 5120 unique IPs|updated every 10 mins  from [this link](http://feeds.dshield.org/block.txt)
 [dshield_1d](http://iplists.firehol.org/?ipset=dshield_1d)|[DShield.org](https://dshield.org/) top 20 attacking class C (/24) subnets over the last three days|ipv4 hash:net|35 subnets, 9216 unique IPs|updated every 10 mins  from [this link](http://feeds.dshield.org/block.txt)
 [dshield_30d](http://iplists.firehol.org/?ipset=dshield_30d)|[DShield.org](https://dshield.org/) top 20 attacking class C (/24) subnets over the last three days|ipv4 hash:net|180 subnets, 47104 unique IPs|updated every 10 mins  from [this link](http://feeds.dshield.org/block.txt)
