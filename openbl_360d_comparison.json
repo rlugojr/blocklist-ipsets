@@ -80,8 +80,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 3054,
-		"common": 1629
+		"ips": 3056,
+		"common": 1628
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -206,7 +206,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11513,
+		"ips": 11472,
 		"common": 150
 	},
 	{
@@ -248,25 +248,31 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 7022,
+		"ips": 7070,
 		"common": 38
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 34,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1141,
+		"ips": 1129,
 		"common": 22
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17502,
+		"ips": 17495,
 		"common": 101
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4596,
+		"ips": 4603,
 		"common": 49
 	},
 	{
@@ -410,7 +416,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7065,
+		"ips": 7032,
 		"common": 38
 	},
 	{
@@ -566,7 +572,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12936,
+		"ips": 12933,
 		"common": 95
 	},
 	{
@@ -578,7 +584,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 71818,
+		"ips": 71828,
 		"common": 65
 	},
 	{
@@ -590,7 +596,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46912,
+		"ips": 46949,
 		"common": 1570
 	},
 	{
@@ -602,7 +608,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584501,
+		"ips": 9584454,
 		"common": 2628
 	},
 	{
@@ -644,7 +650,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1668,
+		"ips": 1709,
 		"common": 41
 	},
 	{
@@ -932,7 +938,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 21644,
+		"ips": 22074,
 		"common": 12
 	},
 	{
@@ -992,14 +998,20 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2568,
-		"common": 63
+		"ips": 2606,
+		"common": 66
 	},
 	{
 		"name": "packetmail_carisirt",
 		"category": "reputation",
 		"ips": 550,
 		"common": 22
+	},
+	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 224,
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -1094,13 +1106,13 @@
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 7185,
+		"ips": 7169,
 		"common": 3
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 3312,
+		"ips": 3298,
 		"common": 1
 	},
 	{
