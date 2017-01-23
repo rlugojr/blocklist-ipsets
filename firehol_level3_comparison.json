@@ -98,7 +98,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 113,
+		"ips": 114,
 		"common": 1
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8582,
+		"ips": 8583,
 		"common": 229
 	},
 	{
@@ -398,49 +398,49 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2944,
-		"common": 165
+		"ips": 2948,
+		"common": 161
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6802,
-		"common": 239
+		"ips": 6795,
+		"common": 236
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 58988,
+		"ips": 59004,
 		"common": 817
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 23490,
+		"ips": 23498,
 		"common": 545
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 944,
+		"ips": 948,
 		"common": 14
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 2137,
+		"ips": 2136,
 		"common": 35
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 39144,
+		"ips": 39158,
 		"common": 484
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 11271,
+		"ips": 11278,
 		"common": 228
 	},
 	{
@@ -453,24 +453,24 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 151
+		"common": 147
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5295,
-		"common": 244
+		"ips": 5289,
+		"common": 241
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 28672,
+		"ips": 28674,
 		"common": 464
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 15380,
+		"ips": 15381,
 		"common": 422
 	},
 	{
@@ -518,14 +518,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 12207,
-		"common": 1867
+		"ips": 12150,
+		"common": 1868
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 10262,
-		"common": 1552
+		"ips": 10205,
+		"common": 1553
 	},
 	{
 		"name": "dm_tor",
@@ -818,20 +818,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12510,
-		"common": 664
+		"ips": 12506,
+		"common": 661
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 225699,
+		"ips": 225710,
 		"common": 2224
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 71389,
-		"common": 1920
+		"ips": 71392,
+		"common": 1921
 	},
 	{
 		"name": "firehol_level1",
@@ -848,19 +848,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9581724,
+		"ips": 9581725,
 		"common": 2219
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 58345,
-		"common": 1044
+		"ips": 58348,
+		"common": 1045
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 18905,
+		"ips": 18904,
 		"common": 2954
 	},
 	{
@@ -1448,26 +1448,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 739,
-		"common": 43
+		"ips": 742,
+		"common": 46
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 1637,
-		"common": 70
+		"ips": 1604,
+		"common": 71
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 7467,
-		"common": 125
+		"ips": 7470,
+		"common": 126
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3577,
-		"common": 106
+		"ips": 3574,
+		"common": 107
 	},
 	{
 		"name": "proxyrss",
@@ -1518,9 +1518,15 @@
 		"common": 98
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 22,
+		"common": 2
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 243,
+		"ips": 242,
 		"common": 12
 	},
 	{
@@ -1532,8 +1538,8 @@
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 849,
-		"common": 35
+		"ips": 847,
+		"common": 34
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1544,7 +1550,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5325,
+		"ips": 5324,
 		"common": 31
 	},
 	{
@@ -1562,7 +1568,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 892,
+		"ips": 891,
 		"common": 6
 	},
 	{
@@ -1694,8 +1700,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 72489,
-		"common": 456
+		"ips": 72398,
+		"common": 453
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1706,8 +1712,8 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 718043,
-		"common": 1492
+		"ips": 718355,
+		"common": 1495
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1718,7 +1724,7 @@
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6262155,
+		"ips": 6262163,
 		"common": 920
 	},
 	{
