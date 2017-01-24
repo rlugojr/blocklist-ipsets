@@ -9,43 +9,43 @@
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
 		"ips": 880,
-		"common": 193
+		"common": 192
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 4386,
-		"common": 193
+		"common": 192
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
 		"ips": 2706,
-		"common": 193
+		"common": 192
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4468,
+		"ips": 4462,
 		"common": 190
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5600,
-		"common": 191
+		"ips": 5589,
+		"common": 190
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 20422,
-		"common": 191
+		"ips": 20423,
+		"common": 190
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9086,
-		"common": 191
+		"ips": 9081,
+		"common": 190
 	},
 	{
 		"name": "bm_tor",
@@ -70,6 +70,12 @@
 		"category": "anonymizers",
 		"ips": 71749,
 		"common": 6
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 148296,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -192,6 +198,12 @@
 		"common": 34
 	},
 	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 14254,
+		"common": 1
+	},
+	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375365176,
@@ -219,18 +231,24 @@
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 279806,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 568163,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 553047,
 		"common": 2
+	},
+	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 15835,
+		"common": 1
 	}
 ]
