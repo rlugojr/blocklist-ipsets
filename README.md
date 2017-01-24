@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Tue Jan 24 02:26:00 UTC 2017.
+The following list was automatically generated on Tue Jan 24 02:28:48 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -1370,7 +1370,7 @@ sorbs_block|[Sorbs.net](https://www.sorbs.net/) List of hosts demanding that the
 [urandomusto_telnet](http://iplists.firehol.org/?ipset=urandomusto_telnet)|IP Feed about telnet, crawled from several sources, including several twitter accounts.|ipv4 hash:ip|441 unique IPs|updated every 1 hour  from [this link](http://urandom.us.to/report.php?ip=&info=&tag=telnet&out=txt&submit=go)
 [urandomusto_unspecified](http://iplists.firehol.org/?ipset=urandomusto_unspecified)|IP Feed about unspecified, crawled from several sources, including several twitter accounts.|ipv4 hash:ip|109 unique IPs|updated every 1 hour  from [this link](http://urandom.us.to/report.php?ip=&info=&tag=unspecified&out=txt&submit=go)
 [urandomusto_vnc](http://iplists.firehol.org/?ipset=urandomusto_vnc)|IP Feed about vnc, crawled from several sources, including several twitter accounts.|ipv4 hash:ip|17 unique IPs|updated every 1 hour  from [this link](http://urandom.us.to/report.php?ip=&info=&tag=vnc&out=txt&submit=go)
-[urlvir](http://iplists.firehol.org/?ipset=urlvir)|[URLVir.com](http://www.urlvir.com/) Active Malicious IP Addresses Hosting Malware. URLVir is an online security service developed by NoVirusThanks Company Srl that automatically monitors changes of malicious URLs (executable files).|ipv4 hash:ip|127 unique IPs|updated every 1 day  from [this link](http://www.urlvir.com/export-ip-addresses/)
+[urlvir](http://iplists.firehol.org/?ipset=urlvir)|[URLVir.com](http://www.urlvir.com/) Active Malicious IP Addresses Hosting Malware. URLVir is an online security service developed by NoVirusThanks Company Srl that automatically monitors changes of malicious URLs (executable files).|ipv4 hash:ip|128 unique IPs|updated every 1 day  from [this link](http://www.urlvir.com/export-ip-addresses/)
 [virbl](http://iplists.firehol.org/?ipset=virbl)|[VirBL](http://virbl.bit.nl/) is a project of which the idea was born during the RIPE-48 meeting. The plan was to get reports of virus scanning mailservers, and put the IP-addresses that were reported to send viruses on a blacklist.|ipv4 hash:ip|63 unique IPs|updated every 1 hour  from [this link](http://virbl.bit.nl/download/virbl.dnsbl.bit.nl.txt)
 [voipbl](http://iplists.firehol.org/?ipset=voipbl)|[VoIPBL.org](http://www.voipbl.org/) a distributed VoIP blacklist that is aimed to protects against VoIP Fraud and minimizing abuse for network that have publicly accessible PBX's. Several algorithms, external sources and manual confirmation are used before they categorize something as an attack and determine the threat level.|ipv4 hash:net|21849 subnets, 23176 unique IPs|updated every 4 hours  from [this link](http://www.voipbl.org/update/)
 [vxvault](http://iplists.firehol.org/?ipset=vxvault)|[VxVault](http://vxvault.net) The latest 100 additions of VxVault.|ipv4 hash:ip|42 unique IPs|updated every 12 hours  from [this link](http://vxvault.net/ViriList.php?s=0&m=100)
