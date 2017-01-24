@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 53642,
-		"common": 3
+		"common": 5
 	},
 	{
 		"name": "atlas_attacks",
@@ -75,7 +75,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 15288,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -87,55 +87,55 @@
 		"name": "dragon_http",
 		"category": "attacks",
 		"ips": 59136,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 9216,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 47872,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 18944,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 872,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 25464158,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 47195,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 147461,
-		"common": 6
+		"ips": 147534,
+		"common": 9
 	},
 	{
 		"name": "firehol_webserver",
@@ -159,7 +159,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 16003,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_edu",
@@ -168,10 +168,16 @@
 		"common": 1
 	},
 	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 1
+	},
+	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "nullsecure",
@@ -225,24 +231,30 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27223,
-		"common": 8
+		"common": 11
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 21,
+		"ips": 27,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 189,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 43,
+		"ips": 44,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 109,
+		"ips": 112,
 		"common": 1
 	},
 	{
