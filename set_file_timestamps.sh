@@ -1157,7 +1157,7 @@
 [ -f 'urandomusto_telnet.ipset' ] && /usr/bin/touch --date=@1485222294 'urandomusto_telnet.ipset'
 [ -f 'urandomusto_unspecified.ipset' ] && /usr/bin/touch --date=@1485222295 'urandomusto_unspecified.ipset'
 [ -f 'urandomusto_vnc.ipset' ] && /usr/bin/touch --date=@1485222298 'urandomusto_vnc.ipset'
-[ -f 'urlvir.ipset' ] && /usr/bin/touch --date=@1485137808 'urlvir.ipset'
+[ -f 'urlvir.ipset' ] && /usr/bin/touch --date=@1485224893 'urlvir.ipset'
 [ -f 'virbl.ipset' ] && /usr/bin/touch --date=@1484126222 'virbl.ipset'
 [ -f 'voipbl.netset' ] && /usr/bin/touch --date=@1485193451 'voipbl.netset'
 [ -f 'vxvault.ipset' ] && /usr/bin/touch --date=@1485202834 'vxvault.ipset'
