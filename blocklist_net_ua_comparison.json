@@ -38,7 +38,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 3058,
+		"ips": 3053,
 		"common": 59
 	},
 	{
@@ -80,25 +80,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4439,
+		"ips": 4391,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5569,
+		"ips": 5572,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 20383,
+		"ips": 20379,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9085,
+		"ips": 9083,
 		"common": 2
 	},
 	{
@@ -212,26 +212,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 36,
-		"common": 6
+		"ips": 32,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1061,
-		"common": 82
+		"ips": 1060,
+		"common": 83
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17476,
-		"common": 468
+		"ips": 17475,
+		"common": 469
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4573,
-		"common": 190
+		"ips": 4574,
+		"common": 191
 	},
 	{
 		"name": "bruteforceblocker",
@@ -506,8 +506,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13099,
-		"common": 251
+		"ips": 13103,
+		"common": 252
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 71804,
+		"ips": 71801,
 		"common": 130
 	},
 	{
@@ -530,8 +530,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47396,
-		"common": 783
+		"ips": 47392,
+		"common": 784
 	},
 	{
 		"name": "firehol_level3",
@@ -542,20 +542,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584254,
+		"ips": 9584252,
 		"common": 11197
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 58737,
+		"ips": 58735,
 		"common": 69
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 19065,
-		"common": 221
+		"ips": 19061,
+		"common": 220
 	},
 	{
 		"name": "firehol_webserver",
@@ -584,8 +584,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2271,
-		"common": 357
+		"ips": 2263,
+		"common": 356
 	},
 	{
 		"name": "haley_ssh",
@@ -867,7 +867,7 @@
 		"name": "iw_spamlist",
 		"category": "spam",
 		"ips": 1528,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -992,8 +992,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2690,
-		"common": 13
+		"ips": 2630,
+		"common": 14
 	},
 	{
 		"name": "php_commenters",
@@ -1172,14 +1172,14 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5335,
+		"ips": 5334,
 		"common": 67
 	},
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 884,
-		"common": 10
+		"ips": 880,
+		"common": 9
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -1248,22 +1248,28 @@
 		"common": 98
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 7637,
+		"ips": 7655,
 		"common": 14
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 45711,
+		"ips": 45709,
 		"common": 30
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 23082,
-		"common": 26
+		"ips": 23040,
+		"common": 27
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1328,7 +1334,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 261,
+		"ips": 260,
 		"common": 1
 	},
 	{
@@ -1412,25 +1418,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1022,
+		"ips": 1020,
 		"common": 88
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1089,
+		"ips": 1088,
 		"common": 88
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2533,
+		"ips": 2530,
 		"common": 94
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1398,
+		"ips": 1397,
 		"common": 92
 	},
 	{
