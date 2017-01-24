@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 3086,
+		"ips": 3085,
 		"common": 1
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25747,
+		"ips": 25670,
 		"common": 1
 	},
 	{
@@ -86,14 +86,14 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 374,
+		"ips": 373,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 11225,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dragon_http",
@@ -128,7 +128,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47157,
+		"ips": 47168,
 		"common": 7
 	},
 	{
@@ -141,18 +141,18 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 51030699,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095482,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2371,
+		"ips": 2382,
 		"common": 1
 	},
 	{
@@ -189,7 +189,13 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 7
+		"common": 8
+	},
+	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4346058,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -230,7 +236,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2586,
+		"ips": 2589,
 		"common": 3
 	},
 	{
@@ -243,7 +249,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50791560,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_dul",
@@ -302,19 +308,25 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 16,
+		"ips": 17,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 222,
+		"ips": 230,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
 		"ips": 46,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_smb",
+		"category": "attacks",
+		"ips": 33,
 		"common": 1
 	},
 	{
