@@ -98,7 +98,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 375,
+		"ips": 374,
 		"common": 2
 	},
 	{
@@ -141,7 +141,7 @@
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 871,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "et_block",
@@ -176,8 +176,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 147779,
-		"common": 16
+		"ips": 147777,
+		"common": 15
 	},
 	{
 		"name": "firehol_level4",
@@ -237,19 +237,19 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "nullsecure",
@@ -296,7 +296,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 140602,
+		"ips": 140626,
 		"common": 1
 	},
 	{
@@ -339,7 +339,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27223,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "urandomusto_dns",
@@ -350,14 +350,26 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 27,
+		"ips": 34,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_smb",
+		"category": "attacks",
+		"ips": 32,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 445,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 115,
-		"common": 1
+		"ips": 122,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
