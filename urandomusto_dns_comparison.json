@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 54675,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "atlas_attacks",
@@ -63,6 +63,12 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 16548,
+		"common": 2
+	},
+	{
+		"name": "dataplane_sipquery",
+		"category": "attacks",
+		"ips": 369,
 		"common": 1
 	},
 	{
@@ -110,20 +116,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47429,
+		"ips": 47269,
 		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 148349,
-		"common": 5
+		"ips": 148348,
+		"common": 6
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 51030551,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "greensnow",
@@ -135,6 +141,12 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 16003,
 		"common": 1
 	},
 	{
@@ -177,7 +189,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50791560,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -201,24 +213,24 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27223,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 18,
+		"ips": 20,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 42,
+		"ips": 43,
 		"common": 3
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 23176,
-		"common": 1
+		"common": 2
 	}
 ]
