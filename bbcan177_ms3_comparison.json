@@ -356,13 +356,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 11496,
-		"common": 159
+		"ips": 11461,
+		"common": 158
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 9403,
+		"ips": 9371,
 		"common": 135
 	},
 	{
@@ -632,7 +632,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 71814,
+		"ips": 71819,
 		"common": 77
 	},
 	{
@@ -662,7 +662,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 58698,
+		"ips": 58703,
 		"common": 74
 	},
 	{
@@ -1254,22 +1254,28 @@
 		"common": 4
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 7684,
-		"common": 12
+		"ips": 7668,
+		"common": 13
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 45672,
+		"ips": 45676,
 		"common": 50
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 23064,
-		"common": 36
+		"ips": 23071,
+		"common": 37
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1286,8 +1292,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 80603,
-		"common": 263
+		"ips": 80214,
+		"common": 261
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1298,8 +1304,8 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 718592,
-		"common": 1325
+		"ips": 718460,
+		"common": 1326
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1358,7 +1364,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 884,
+		"ips": 885,
 		"common": 2
 	},
 	{
