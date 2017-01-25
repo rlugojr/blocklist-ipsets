@@ -122,8 +122,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 38113,
-		"common": 302
+		"ips": 38236,
+		"common": 303
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -132,9 +132,15 @@
 		"common": 12
 	},
 	{
+		"name": "blocklist_de_bots",
+		"category": "attacks",
+		"ips": 1029,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 405,
+		"ips": 389,
 		"common": 11
 	},
 	{
@@ -164,13 +170,13 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12493,
-		"common": 245
+		"ips": 12538,
+		"common": 246
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 190,
+		"ips": 189,
 		"common": 63
 	},
 	{
@@ -512,8 +518,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46336,
-		"common": 378
+		"ips": 46455,
+		"common": 379
 	},
 	{
 		"name": "firehol_level3",
@@ -806,7 +812,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 25186,
+		"ips": 25494,
 		"common": 29
 	},
 	{
@@ -1250,12 +1256,12 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 85,
+		"ips": 87,
 		"common": 4
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
+		"name": "urandomusto_mailer",
+		"category": "spam",
 		"ips": 451,
 		"common": 1
 	},
@@ -1275,18 +1281,12 @@
 		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 451,
-		"common": 7
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 443,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 177,
+		"ips": 178,
 		"common": 17
 	},
 	{
