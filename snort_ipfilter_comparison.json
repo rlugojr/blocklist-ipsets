@@ -134,37 +134,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37398,
-		"common": 158
+		"ips": 37380,
+		"common": 157
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9259,
+		"ips": 9260,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 984,
+		"ips": 986,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3426,
+		"ips": 3424,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24422,
-		"common": 154
+		"ips": 24387,
+		"common": 153
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16425,
+		"ips": 16577,
 		"common": 84
 	},
 	{
@@ -272,73 +272,73 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 3139,
-		"common": 102
+		"ips": 3144,
+		"common": 104
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 7199,
+		"ips": 7204,
 		"common": 122
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 60130,
+		"ips": 60142,
 		"common": 320
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 21499,
+		"ips": 21513,
 		"common": 202
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 1139,
+		"ips": 1144,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 2575,
+		"ips": 2580,
 		"common": 17
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 39997,
+		"ips": 40010,
 		"common": 160
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 11579,
+		"ips": 11598,
 		"common": 84
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 101
+		"common": 103
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5298,
+		"ips": 5294,
 		"common": 130
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 29033,
+		"ips": 29036,
 		"common": 194
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 12773,
+		"ips": 12770,
 		"common": 144
 	},
 	{
@@ -368,14 +368,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10249,
-		"common": 63
+		"ips": 10217,
+		"common": 61
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 8205,
-		"common": 60
+		"ips": 8180,
+		"common": 58
 	},
 	{
 		"name": "dm_tor",
@@ -512,13 +512,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 227374,
+		"ips": 227390,
 		"common": 865
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 71995,
+		"ips": 71998,
 		"common": 1216
 	},
 	{
@@ -530,8 +530,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45523,
-		"common": 169
+		"ips": 45504,
+		"common": 168
 	},
 	{
 		"name": "firehol_level3",
@@ -542,13 +542,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589435,
+		"ips": 9589579,
 		"common": 534
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 58920,
+		"ips": 58923,
 		"common": 436
 	},
 	{
@@ -1188,21 +1188,27 @@
 		"common": 388
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 7974,
+		"ips": 7959,
 		"common": 87
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 45901,
+		"ips": 45904,
 		"common": 218
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 22754,
+		"ips": 22759,
 		"common": 179
 	},
 	{
@@ -1220,8 +1226,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 82560,
-		"common": 254
+		"ips": 82178,
+		"common": 251
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1232,13 +1238,13 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 721251,
-		"common": 913
+		"ips": 721018,
+		"common": 914
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6262436,
+		"ips": 6262439,
 		"common": 104
 	},
 	{
