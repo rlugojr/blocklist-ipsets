@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146886,
+		"ips": 146887,
 		"common": 847
 	},
 	{
@@ -1281,13 +1281,13 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 4
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 7636,
-		"common": 204
+		"ips": 7635,
+		"common": 205
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1298,7 +1298,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 22435,
+		"ips": 22445,
 		"common": 406
 	},
 	{
@@ -1377,7 +1377,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 42
+		"common": 40
 	},
 	{
 		"name": "sslproxies_1d",
@@ -1502,8 +1502,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 261,
-		"common": 2
+		"ips": 282,
+		"common": 12
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 429,
+		"common": 4
 	},
 	{
 		"name": "voipbl",
