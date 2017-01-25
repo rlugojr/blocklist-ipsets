@@ -491,7 +491,7 @@
 [ -f 'iblocklist_level1.netset' ] && /usr/bin/touch --date=@1485304955 'iblocklist_level1.netset'
 [ -f 'iblocklist_level2.netset' ] && /usr/bin/touch --date=@1453708835 'iblocklist_level2.netset'
 [ -f 'iblocklist_level3.netset' ] && /usr/bin/touch --date=@1464742399 'iblocklist_level3.netset'
-[ -f 'iblocklist_malc0de.netset' ] && /usr/bin/touch --date=@1485257702 'iblocklist_malc0de.netset'
+[ -f 'iblocklist_malc0de.netset' ] && /usr/bin/touch --date=@1485344262 'iblocklist_malc0de.netset'
 [ -f 'iblocklist_onion_router.netset' ] && /usr/bin/touch --date=@1485318066 'iblocklist_onion_router.netset'
 [ -f 'iblocklist_org_activision.netset' ] && /usr/bin/touch --date=@1453725886 'iblocklist_org_activision.netset'
 [ -f 'iblocklist_org_apple.netset' ] && /usr/bin/touch --date=@1453713155 'iblocklist_org_apple.netset'
