@@ -123,7 +123,7 @@
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 874,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "et_block",
@@ -140,14 +140,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45973,
+		"ips": 46001,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146797,
-		"common": 15
+		"ips": 146796,
+		"common": 16
 	},
 	{
 		"name": "firehol_webserver",
@@ -201,7 +201,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -219,7 +219,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "lashback_ubl",
@@ -243,13 +243,13 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2570,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2381,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -291,7 +291,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 9912,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "threatcrowd",
@@ -309,18 +309,18 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27223,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 19,
+		"ips": 20,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 260,
+		"ips": 257,
 		"common": 2
 	},
 	{
@@ -332,8 +332,14 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 55,
+		"ips": 59,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 417,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
