@@ -1,5 +1,11 @@
 [
 	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 53507,
+		"common": 1
+	},
+	{
 		"name": "atlas_attacks",
 		"category": "attacks",
 		"ips": 10,
@@ -33,43 +39,49 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 3717,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37410,
+		"ips": 37365,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9273,
+		"ips": 9278,
+		"common": 1
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15769,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10222,
+		"ips": 10259,
 		"common": 1
 	},
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 872,
-		"common": 3
+		"ips": 874,
+		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45790,
+		"ips": 45809,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 148258,
-		"common": 3
+		"ips": 148261,
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
@@ -90,16 +102,22 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 15292,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690953,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "iblocklist_level3",
@@ -117,13 +135,25 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 3
+		"common": 4
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 2570,
+		"common": 1
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2381,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -147,7 +177,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 10003,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "threatcrowd",
@@ -156,10 +186,16 @@
 		"common": 1
 	},
 	{
+		"name": "trustedsec_atif",
+		"category": "reputation",
+		"ips": 1395,
+		"common": 1
+	},
+	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27223,
-		"common": 5
+		"common": 7
 	},
 	{
 		"name": "urandomusto_dns",
@@ -176,7 +212,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 261,
+		"ips": 260,
 		"common": 1
 	},
 	{
@@ -188,13 +224,13 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 102,
+		"ips": 104,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 323,
+		"ips": 333,
 		"common": 1
 	}
 ]
