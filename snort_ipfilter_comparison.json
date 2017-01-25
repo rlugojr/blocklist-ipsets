@@ -212,8 +212,8 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 28,
-		"common": 5
+		"ips": 39,
+		"common": 3
 	},
 	{
 		"name": "botscout_1d",
@@ -224,14 +224,14 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 17130,
-		"common": 481
+		"ips": 17125,
+		"common": 482
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4435,
-		"common": 316
+		"ips": 4426,
+		"common": 317
 	},
 	{
 		"name": "botvrij_dst",
@@ -368,8 +368,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6970,
-		"common": 858
+		"ips": 6965,
+		"common": 860
 	},
 	{
 		"name": "dragon_http",
@@ -494,8 +494,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13091,
-		"common": 389
+		"ips": 13093,
+		"common": 390
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -506,8 +506,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 71740,
-		"common": 1198
+		"ips": 71781,
+		"common": 1200
 	},
 	{
 		"name": "firehol_level1",
@@ -518,20 +518,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46569,
+		"ips": 46600,
 		"common": 154
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146844,
+		"ips": 146882,
 		"common": 14254
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589438,
-		"common": 531
+		"ips": 9589433,
+		"common": 532
 	},
 	{
 		"name": "firehol_proxies",
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 19194,
+		"ips": 19193,
 		"common": 506
 	},
 	{
@@ -572,7 +572,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3724,
+		"ips": 3756,
 		"common": 12
 	},
 	{
@@ -890,13 +890,13 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 21260,
+		"ips": 21277,
 		"common": 28
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 6401,
+		"ips": 6396,
 		"common": 3
 	},
 	{
@@ -908,7 +908,7 @@
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 13052,
+		"ips": 13059,
 		"common": 14
 	},
 	{
@@ -1394,8 +1394,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 250,
-		"common": 9
+		"ips": 261,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 60,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
