@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 71787,
+		"ips": 71785,
 		"common": 1
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9582842,
+		"ips": 9582848,
 		"common": 110
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 24076,
+		"ips": 24082,
 		"common": 92
 	},
 	{
@@ -692,8 +692,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2583,
-		"common": 31
+		"ips": 2595,
+		"common": 30
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -848,19 +848,19 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1014,
+		"ips": 1013,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1090,
+		"ips": 1093,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2537,
+		"ips": 2536,
 		"common": 1
 	},
 	{
@@ -878,13 +878,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 78,
+		"ips": 83,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 124,
+		"ips": 127,
 		"common": 1
 	},
 	{
@@ -894,15 +900,9 @@
 		"common": 1
 	},
 	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 451,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 169,
+		"ips": 171,
 		"common": 1
 	},
 	{
