@@ -62,13 +62,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 38017,
+		"ips": 38106,
 		"common": 735
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9419,
+		"ips": 9423,
 		"common": 3
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 110,
+		"ips": 109,
 		"common": 2
 	},
 	{
@@ -92,19 +92,19 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 23504,
+		"ips": 23555,
 		"common": 19
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12102,
+		"ips": 12138,
 		"common": 711
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 191,
+		"ips": 193,
 		"common": 52
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 71773,
+		"ips": 71745,
 		"common": 1
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146959,
+		"ips": 146960,
 		"common": 1237
 	},
 	{
@@ -374,13 +374,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 58743,
+		"ips": 58717,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 19250,
+		"ips": 19251,
 		"common": 2
 	},
 	{
@@ -644,8 +644,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2291,
-		"common": 27
+		"ips": 2284,
+		"common": 24
 	},
 	{
 		"name": "php_commenters_30d",
@@ -776,13 +776,13 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1016,
+		"ips": 1014,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1089,
+		"ips": 1090,
 		"common": 1
 	},
 	{
@@ -810,12 +810,6 @@
 		"common": 455
 	},
 	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 451,
-		"common": 3
-	},
-	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
 		"ips": 68,
@@ -824,13 +818,19 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 449,
+		"ips": 451,
 		"common": 10
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 440,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 167,
+		"ips": 169,
 		"common": 2
 	},
 	{
