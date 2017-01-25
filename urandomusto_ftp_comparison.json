@@ -68,31 +68,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37999,
-		"common": 6
+		"ips": 37942,
+		"common": 7
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9403,
+		"ips": 9409,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 111,
+		"ips": 109,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 23589,
+		"ips": 23504,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 12046,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16406,
+		"ips": 14258,
 		"common": 1
 	},
 	{
@@ -117,7 +123,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 10448,
-		"common": 6
+		"common": 7
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 8332,
+		"common": 1
 	},
 	{
 		"name": "dragon_http",
@@ -164,19 +176,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45618,
-		"common": 6
+		"ips": 45559,
+		"common": 7
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146920,
+		"ips": 146958,
 		"common": 19
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589366,
+		"ips": 9587228,
 		"common": 1
 	},
 	{
@@ -266,7 +278,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 25154,
+		"ips": 25226,
 		"common": 1
 	},
 	{
@@ -303,7 +315,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375365177,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -398,7 +410,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 345,
+		"ips": 438,
 		"common": 1
 	},
 	{
@@ -410,13 +422,7 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 64,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 449,
+		"ips": 65,
 		"common": 1
 	},
 	{
