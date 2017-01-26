@@ -86,55 +86,55 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4510,
+		"ips": 4505,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5589,
+		"ips": 5588,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 20486,
+		"ips": 20483,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9086,
+		"ips": 9082,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37114,
+		"ips": 37038,
 		"common": 127
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9553,
+		"ips": 9535,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1095,
+		"ips": 1104,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2459,
+		"ips": 2431,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22285,
+		"ips": 22237,
 		"common": 2
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12178,
+		"ips": 12161,
 		"common": 119
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146961,
+		"ips": 146967,
 		"common": 5120
 	},
 	{
@@ -896,7 +896,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 17651,
+		"ips": 17655,
 		"common": 1
 	},
 	{
@@ -942,8 +942,14 @@
 		"common": 101
 	},
 	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 108,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
 		"ips": 451,
 		"common": 1
 	},
@@ -956,7 +962,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 142,
+		"ips": 143,
 		"common": 5
 	},
 	{
@@ -968,7 +974,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 210,
+		"ips": 214,
 		"common": 2
 	},
 	{
