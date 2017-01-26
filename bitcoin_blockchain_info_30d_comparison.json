@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11386,
+		"ips": 11448,
 		"common": 1
 	},
 	{
@@ -228,15 +228,27 @@
 		"common": 3
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 6912,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 45824,
+		"ips": 46080,
 		"common": 12
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 16640,
+		"ips": 16896,
 		"common": 4
 	},
 	{
@@ -272,25 +284,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 71820,
+		"ips": 71827,
 		"common": 91
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 659827418,
-		"common": 7
+		"ips": 659827419,
+		"common": 8
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 47136,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 147886,
+		"ips": 148140,
 		"common": 35
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584653,
+		"ips": 9584715,
 		"common": 11
 	},
 	{
@@ -752,14 +770,14 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1021,
-		"common": 11
+		"ips": 1023,
+		"common": 10
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1092,
-		"common": 12
+		"ips": 1081,
+		"common": 11
 	},
 	{
 		"name": "tor_exits_30d",
@@ -770,7 +788,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1409,
+		"ips": 1410,
 		"common": 13
 	},
 	{
