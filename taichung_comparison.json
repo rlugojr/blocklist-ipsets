@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10743,
+		"ips": 10660,
 		"common": 43
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 311819,
+		"ips": 311820,
 		"common": 20
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 57607,
+		"ips": 57639,
 		"common": 17
 	},
 	{
@@ -518,13 +518,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585093,
+		"ips": 9585014,
 		"common": 320
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 44439,
+		"ips": 44471,
 		"common": 15
 	},
 	{
@@ -1142,13 +1142,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 29759,
+		"ips": 29790,
 		"common": 7
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9509,
+		"ips": 9551,
 		"common": 1
 	},
 	{
@@ -1224,21 +1224,27 @@
 		"common": 1
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 749,
+		"ips": 757,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3595,
+		"ips": 3596,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1875,
+		"ips": 1878,
 		"common": 1
 	},
 	{
@@ -1338,16 +1344,10 @@
 		"common": 2041
 	},
 	{
-		"name": "urandomusto_ftp",
-		"category": "attacks",
-		"ips": 352,
-		"common": 3
-	},
-	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 316,
-		"common": 27
+		"ips": 11,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_mailer",
@@ -1362,18 +1362,6 @@
 		"common": 1
 	},
 	{
-		"name": "urandomusto_ntp",
-		"category": "attacks",
-		"ips": 126,
-		"common": 12
-	},
-	{
-		"name": "urandomusto_rdp",
-		"category": "attacks",
-		"ips": 171,
-		"common": 35
-	},
-	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 189,
@@ -1382,8 +1370,8 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 448,
-		"common": 47
+		"ips": 9,
+		"common": 1
 	},
 	{
 		"name": "virbl",
