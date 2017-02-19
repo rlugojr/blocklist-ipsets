@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 43705,
-		"common": 82
+		"common": 79
 	},
 	{
 		"name": "atlas_attacks",
@@ -33,7 +33,7 @@
 		"name": "atlas_scans_30d",
 		"category": "attacks",
 		"ips": 99,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "atlas_scans_7d",
@@ -183,7 +183,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 13305,
-		"common": 75
+		"common": 72
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -213,7 +213,7 @@
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
 		"ips": 29,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -249,7 +249,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 39680,
-		"common": 29
+		"common": 28
 	},
 	{
 		"name": "dshield_7d",
@@ -303,7 +303,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 145303,
-		"common": 106
+		"common": 103
 	},
 	{
 		"name": "firehol_level4",
@@ -315,7 +315,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34485622,
-		"common": 63
+		"common": 60
 	},
 	{
 		"name": "gofferje_sip",
@@ -351,7 +351,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 13159,
-		"common": 69
+		"common": 67
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -375,6 +375,12 @@
 		"name": "iblocklist_isp_att",
 		"category": "organizations",
 		"ips": 55845128,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_verizon",
+		"category": "organizations",
+		"ips": 18087936,
 		"common": 1
 	},
 	{
@@ -429,7 +435,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "lashback_ubl",
@@ -519,7 +525,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34243720,
-		"common": 59
+		"common": 56
 	},
 	{
 		"name": "shunlist",
@@ -626,13 +632,13 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 446,
-		"common": 1
+		"ips": 443,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 23965,
-		"common": 110
+		"common": 111
 	}
 ]
