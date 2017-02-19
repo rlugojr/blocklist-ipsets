@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Sun Feb 19 21:17:27 UTC 2017.
+The following list was automatically generated on Sun Feb 19 21:20:56 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -662,7 +662,7 @@ esentire_burmundisoul_ru|Ursnif Variant CnC|ipv4 hash:ip|disabled|updated every 
 [firehol_abusers_30d](http://iplists.firehol.org/?ipset=firehol_abusers_30d)|An ipset made from blocklists that track abusers in the last 30 days. (includes: cleantalk_new_30d cleantalk_updated_30d php_commenters_30d php_dictionary_30d php_harvesters_30d php_spammers_30d stopforumspam sblam)|ipv4 hash:net|203275 subnets, 220248 unique IPs|
 [firehol_anonymous](http://iplists.firehol.org/?ipset=firehol_anonymous)|An ipset that includes all the anonymizing IPs of the world. (includes: anonymous bm_tor dm_tor firehol_proxies tor_exits)|ipv4 hash:net|50616 subnets, 57461 unique IPs|
 [firehol_level1](http://iplists.firehol.org/?ipset=firehol_level1)|A firewall blacklist composed from IP lists, providing maximum protection with minimum false positives. Suitable for basic protection on all internet facing servers, routers and firewalls. (includes: bambenek_c2 dshield feodo fullbogons palevo spamhaus_drop spamhaus_edrop sslbl zeus_badips ransomware_rw)|ipv4 hash:net|17381 subnets, 656713573 unique IPs|
-[firehol_level2](http://iplists.firehol.org/?ipset=firehol_level2)|An ipset made from blocklists that track attacks, during about the last 48 hours. (includes: blocklist_de dshield_1d greensnow openbl_1d virbl)|ipv4 hash:net|19380 subnets, 39293 unique IPs|
+[firehol_level2](http://iplists.firehol.org/?ipset=firehol_level2)|An ipset made from blocklists that track attacks, during about the last 48 hours. (includes: blocklist_de dshield_1d greensnow openbl_1d virbl)|ipv4 hash:net|19379 subnets, 39292 unique IPs|
 [firehol_level3](http://iplists.firehol.org/?ipset=firehol_level3)|An ipset made from blocklists that track attacks, spyware, viruses. It includes IPs than have been reported or detected in the last 30 days. (includes: bruteforceblocker ciarmy dragon_http dragon_sshpauth dragon_vncprobe dshield_30d dshield_top_1000 malc0de maxmind_proxy_fraud myip openbl_30d shunlist snort_ipfilter sslbl_aggressive talosintel_ipfilter zeus vxvault)|ipv4 hash:net|40041 subnets, 147778 unique IPs|
 [firehol_level4](http://iplists.firehol.org/?ipset=firehol_level4)|An ipset made from blocklists that track attacks, but may include a large number of false positives. (includes: cleanmx_viruses blocklist_net_ua botscout_30d cruzit_web_attacks cybercrime haley_ssh iblocklist_hijacked iblocklist_spyware iblocklist_webexploit ipblacklistcloud_top iw_wormlist malwaredomainlist)|ipv4 hash:net|92054 subnets, 9588084 unique IPs|
 [firehol_proxies](http://iplists.firehol.org/?ipset=firehol_proxies)|An ipset made from all sources that track open proxies. It includes IPs reported or detected in the last 30 days. (includes: iblocklist_proxies maxmind_proxy_fraud proxylists_30d proxyrss_30d proxz_30d proxyspy_30d ri_connect_proxies_30d ri_web_proxies_30d socks_proxy_30d sslproxies_30d xroxy_30d)|ipv4 hash:net|43685 subnets, 44299 unique IPs|
