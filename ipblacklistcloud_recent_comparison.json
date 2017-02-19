@@ -1,98 +1,98 @@
 [
 	{
-		"name": "blocklist_net_ua",
-		"category": "abuse",
-		"ips": 10808,
-		"common": 3
-	},
-	{
-		"name": "cleantalk_1d",
-		"category": "abuse",
-		"ips": 5952,
-		"common": 1
-	},
-	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 65299,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 18084,
-		"common": 2
-	},
-	{
-		"name": "cleantalk_new_1d",
-		"category": "abuse",
-		"ips": 1274,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 32682,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 7485,
-		"common": 2
-	},
-	{
-		"name": "firehol_abusers_1d",
-		"category": "abuse",
-		"ips": 12249,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 220339,
-		"common": 2
+		"common": 1
 	},
 	{
-		"name": "firehol_level4",
+		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 9585158,
-		"common": 3
+		"ips": 34485757,
+		"common": 1
 	},
 	{
-		"name": "iblocklist_level3",
+		"name": "hphosts_psh",
 		"category": "reputation",
-		"ips": 139023007,
+		"ips": 22476,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_pedophiles",
+		"category": "reputation",
+		"ips": 840889,
 		"common": 1
 	},
 	{
 		"name": "ipblacklistcloud_recent_1d",
 		"category": "abuse",
-		"ips": 84,
+		"ips": 70,
 		"common": 35
 	},
 	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 486,
+		"ips": 508,
 		"common": 35
 	},
 	{
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
-		"ips": 398,
+		"ips": 389,
 		"common": 35
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 14
+		"common": 16
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 278991,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 559804,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 316,
 		"common": 1
 	}
 ]
