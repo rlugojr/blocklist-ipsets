@@ -78,15 +78,27 @@
 		"common": 2709
 	},
 	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8857,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 162,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 193,
+		"ips": 194,
 		"common": 87
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14432,
+		"ips": 14424,
 		"common": 107
 	},
 	{
@@ -110,7 +122,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14916,
+		"ips": 14912,
 		"common": 1
 	},
 	{
@@ -213,13 +225,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 3307,
-		"common": 1135
+		"common": 1138
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1876,
-		"common": 837
+		"ips": 1874,
+		"common": 839
 	},
 	{
 		"name": "dm_tor",
@@ -350,7 +362,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12565,
+		"ips": 12559,
 		"common": 3
 	},
 	{
@@ -362,7 +374,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 57376,
+		"ips": 57360,
 		"common": 3
 	},
 	{
@@ -380,19 +392,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 148037,
+		"ips": 147456,
 		"common": 830
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588754,
+		"ips": 9588745,
 		"common": 379
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 44277,
+		"ips": 44264,
 		"common": 1
 	},
 	{
@@ -410,7 +422,7 @@
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
-		"ips": 1095546,
+		"ips": 1095548,
 		"common": 33
 	},
 	{
@@ -680,8 +692,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2305,
-		"common": 47
+		"ips": 2281,
+		"common": 51
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -692,8 +704,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2039,
-		"common": 51
+		"ips": 2116,
+		"common": 55
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -722,7 +734,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 25012,
+		"ips": 25168,
 		"common": 1
 	},
 	{
@@ -854,13 +866,13 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 987,
+		"ips": 986,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1048,
+		"ips": 1046,
 		"common": 1
 	},
 	{
@@ -872,7 +884,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1382,
+		"ips": 1381,
 		"common": 1
 	},
 	{
@@ -888,16 +900,22 @@
 		"common": 400
 	},
 	{
-		"name": "urandomusto_smb",
+		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 189,
+		"ips": 21,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 175,
-		"common": 79
+		"ips": 440,
+		"common": 241
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 450,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

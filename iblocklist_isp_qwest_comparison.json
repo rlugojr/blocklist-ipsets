@@ -92,13 +92,13 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1812,
+		"ips": 1807,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21648,
+		"ips": 21742,
 		"common": 5
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14432,
+		"ips": 14424,
 		"common": 1
 	},
 	{
@@ -152,19 +152,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 845,
+		"ips": 835,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14916,
+		"ips": 14912,
 		"common": 4
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4854,
+		"ips": 4853,
 		"common": 2
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1876,
+		"ips": 1874,
 		"common": 1
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12565,
+		"ips": 12559,
 		"common": 10
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 57376,
+		"ips": 57360,
 		"common": 42
 	},
 	{
@@ -392,19 +392,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 148037,
+		"ips": 147456,
 		"common": 18
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588754,
+		"ips": 9588745,
 		"common": 895
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 44277,
+		"ips": 44264,
 		"common": 22
 	},
 	{
@@ -752,25 +752,25 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 25012,
+		"ips": 25168,
 		"common": 7
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3283,
+		"ips": 3294,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 29588,
+		"ips": 29575,
 		"common": 14
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9465,
+		"ips": 9432,
 		"common": 8
 	},
 	{
@@ -890,13 +890,13 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 987,
+		"ips": 986,
 		"common": 4
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1048,
+		"ips": 1046,
 		"common": 5
 	},
 	{
@@ -908,7 +908,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1382,
+		"ips": 1381,
 		"common": 5
 	},
 	{
@@ -922,6 +922,18 @@
 		"category": "reputation",
 		"ips": 27025,
 		"common": 14
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 440,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 450,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
