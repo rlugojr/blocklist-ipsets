@@ -158,19 +158,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26545,
+		"ips": 26729,
 		"common": 157
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8831,
+		"ips": 8832,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1640,
+		"ips": 1646,
 		"common": 2
 	},
 	{
@@ -182,20 +182,20 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21273,
+		"ips": 21440,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 161,
-		"common": 1
+		"ips": 164,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2696,
-		"common": 137
+		"ips": 2703,
+		"common": 136
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -506,7 +506,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38657,
+		"ips": 38841,
 		"common": 11264
 	},
 	{
@@ -758,8 +758,8 @@
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 16169,
-		"common": 176
+		"ips": 16171,
+		"common": 177
 	},
 	{
 		"name": "openbl_all",
@@ -1034,14 +1034,14 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 1,
+		"ips": 4,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 11,
-		"common": 3
+		"ips": 19,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_mailer",
@@ -1050,10 +1050,28 @@
 		"common": 4
 	},
 	{
+		"name": "urandomusto_rdp",
+		"category": "attacks",
+		"ips": 6,
+		"common": 2
+	},
+	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 189,
 		"common": 12
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 14,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_vnc",
+		"category": "attacks",
+		"ips": 37,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

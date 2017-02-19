@@ -1,5 +1,17 @@
 [
 	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 43787,
+		"common": 1
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 13688,
+		"common": 1
+	},
+	{
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
 		"ips": 6546,
@@ -36,6 +48,12 @@
 		"common": 1
 	},
 	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 868,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656713570,
@@ -44,14 +62,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38657,
+		"ips": 38841,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 147613,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "firehol_level4",
@@ -63,12 +81,18 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34485678,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 24578,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 656175779,
 		"common": 1
 	},
 	{
@@ -96,6 +120,12 @@
 		"common": 1
 	},
 	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
+		"common": 1
+	},
+	{
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 22398,
@@ -114,15 +144,27 @@
 		"common": 1
 	},
 	{
+		"name": "packetmail_carisirt",
+		"category": "reputation",
+		"ips": 550,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34243720,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
 		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 27025,
+		"common": 2
 	}
 ]
