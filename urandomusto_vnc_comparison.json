@@ -1,5 +1,11 @@
 [
 	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 42765,
+		"common": 2
+	},
+	{
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
 		"ips": 83,
@@ -30,28 +36,58 @@
 		"common": 1
 	},
 	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 1229,
+		"common": 1
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 14095,
+		"common": 2
+	},
+	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
 		"ips": 2659,
 		"common": 1
 	},
 	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 41472,
+		"common": 1
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 21248,
+		"common": 1
+	},
+	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 866,
-		"common": 2
+		"common": 3
+	},
+	{
+		"name": "et_compromised",
+		"category": "attacks",
+		"ips": 1276,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 147909,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34485642,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "gofferje_sip",
@@ -66,6 +102,12 @@
 		"common": 2
 	},
 	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 13475,
+		"common": 2
+	},
+	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
@@ -75,7 +117,7 @@
 		"name": "iblocklist_isp_verizon",
 		"category": "organizations",
 		"ips": 18087936,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_level2",
@@ -99,7 +141,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "openbl_180d",
@@ -126,10 +168,16 @@
 		"common": 1
 	},
 	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2275,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34243720,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "sorbs_dul",
@@ -141,12 +189,12 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11565,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 24440,
-		"common": 5
+		"common": 6
 	}
 ]
