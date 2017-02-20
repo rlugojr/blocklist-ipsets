@@ -38,19 +38,19 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1557,
-		"common": 239
+		"ips": 1552,
+		"common": 238
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28895,
+		"ips": 28857,
 		"common": 74
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2520,
+		"ips": 2525,
 		"common": 1
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11539,
+		"ips": 11576,
 		"common": 19
 	},
 	{
@@ -96,22 +96,28 @@
 		"common": 3
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 49,
+		"common": 3
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1030,
-		"common": 28
+		"ips": 1046,
+		"common": 30
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15020,
-		"common": 802
+		"ips": 15021,
+		"common": 803
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4851,
-		"common": 205
+		"ips": 4853,
+		"common": 206
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -206,8 +212,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7102,
-		"common": 3
+		"ips": 7079,
+		"common": 4
 	},
 	{
 		"name": "dragon_http",
@@ -332,7 +338,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13205,
+		"ips": 13217,
 		"common": 530
 	},
 	{
@@ -344,7 +350,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 56639,
+		"ips": 56683,
 		"common": 5954
 	},
 	{
@@ -356,20 +362,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44243,
+		"ips": 44244,
 		"common": 319
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 147868,
+		"ips": 147872,
 		"common": 204
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585984,
-		"common": 808
+		"ips": 9586022,
+		"common": 809
 	},
 	{
 		"name": "firehol_proxies",
@@ -404,7 +410,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1172,
+		"ips": 1173,
 		"common": 5
 	},
 	{
@@ -614,8 +620,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36379,
-		"common": 83
+		"ips": 36361,
+		"common": 82
 	},
 	{
 		"name": "nullsecure",
@@ -1072,6 +1078,18 @@
 		"category": "reputation",
 		"ips": 24440,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 451,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "xroxy",

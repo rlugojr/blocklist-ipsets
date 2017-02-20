@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 43019,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "atlas_attacks_30d",
@@ -62,20 +62,20 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9018,
+		"ips": 9020,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2520,
+		"ips": 2525,
 		"common": 1
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 14095,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "darklist_de",
@@ -123,7 +123,7 @@
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 866,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "et_block",
@@ -146,20 +146,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44243,
+		"ips": 44244,
 		"common": 7
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 147868,
-		"common": 19
+		"ips": 147872,
+		"common": 20
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585984,
-		"common": 2
+		"ips": 9586022,
+		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
@@ -170,7 +170,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1172,
+		"ips": 1173,
 		"common": 3
 	},
 	{
@@ -189,13 +189,19 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 13475,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 9145088,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level1",
@@ -267,7 +273,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2229,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -279,7 +285,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2275,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -333,7 +339,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11565,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "threatcrowd",
@@ -354,15 +360,9 @@
 		"common": 24
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 450,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 37,
-		"common": 1
+		"ips": 41,
+		"common": 2
 	}
 ]
