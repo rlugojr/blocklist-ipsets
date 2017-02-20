@@ -38,26 +38,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31692,
-		"common": 346
+		"ips": 31837,
+		"common": 352
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8931,
-		"common": 346
+		"ips": 8939,
+		"common": 352
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 194,
+		"ips": 195,
 		"common": 7
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 14530,
-		"common": 149
+		"common": 150
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -266,8 +266,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44337,
-		"common": 346
+		"ips": 44481,
+		"common": 352
 	},
 	{
 		"name": "firehol_level3",
@@ -279,7 +279,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9588932,
-		"common": 159
+		"common": 160
 	},
 	{
 		"name": "firehol_proxies",
@@ -297,7 +297,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34485678,
-		"common": 108
+		"common": 110
 	},
 	{
 		"name": "gofferje_sip",
@@ -342,10 +342,16 @@
 		"common": 7
 	},
 	{
+		"name": "iblocklist_ads",
+		"category": "organizations",
+		"ips": 888645,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 33
+		"common": 35
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -387,7 +393,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -399,6 +405,12 @@
 		"name": "iblocklist_spider",
 		"category": "organizations",
 		"ips": 860168,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_yoyo_adservers",
+		"category": "organizations",
+		"ips": 12079,
 		"common": 1
 	},
 	{
@@ -501,7 +513,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34243720,
-		"common": 95
+		"common": 97
 	},
 	{
 		"name": "ransomware_feed",
@@ -658,5 +670,11 @@
 		"category": "attacks",
 		"ips": 24028,
 		"common": 3
+	},
+	{
+		"name": "yoyo_adservers",
+		"category": "organizations",
+		"ips": 12751,
+		"common": 1
 	}
 ]
