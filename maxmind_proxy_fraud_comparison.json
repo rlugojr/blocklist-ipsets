@@ -74,25 +74,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 55,
-		"common": 4
+		"ips": 40,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 862,
+		"ips": 866,
 		"common": 57
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14914,
+		"ips": 14913,
 		"common": 165
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4858,
+		"ips": 4861,
 		"common": 138
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 10409,
+		"ips": 10416,
 		"common": 127
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 57200,
+		"ips": 57195,
 		"common": 455
 	},
 	{
@@ -290,19 +290,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589049,
+		"ips": 9589047,
 		"common": 173
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 44081,
+		"ips": 44076,
 		"common": 455
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 21977,
+		"ips": 21979,
 		"common": 455
 	},
 	{
@@ -644,8 +644,8 @@
 	{
 		"name": "sblam",
 		"category": "abuse",
-		"ips": 20944,
-		"common": 160
+		"ips": 21231,
+		"common": 158
 	},
 	{
 		"name": "snort_ipfilter",
@@ -656,7 +656,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 29449,
+		"ips": 29444,
 		"common": 1
 	},
 	{
@@ -790,6 +790,12 @@
 		"category": "reputation",
 		"ips": 24440,
 		"common": 19
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 425,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
