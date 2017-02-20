@@ -158,20 +158,32 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14863,
+		"ips": 14857,
 		"common": 16
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 47,
+		"common": 1
+	},
+	{
+		"name": "botscout_1d",
+		"category": "abuse",
+		"ips": 914,
+		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14964,
-		"common": 1
+		"ips": 14965,
+		"common": 2
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4869,
-		"common": 1
+		"ips": 4877,
+		"common": 2
 	},
 	{
 		"name": "bruteforceblocker",
@@ -254,7 +266,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3247,
+		"ips": 3243,
 		"common": 147
 	},
 	{
@@ -362,8 +374,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 10793,
-		"common": 3
+		"ips": 10800,
+		"common": 4
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -392,8 +404,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589231,
-		"common": 157
+		"ips": 9589226,
+		"common": 158
 	},
 	{
 		"name": "firehol_webclient",
