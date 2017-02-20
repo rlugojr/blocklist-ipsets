@@ -6,6 +6,12 @@
 		"common": 1
 	},
 	{
+		"name": "atlas_attacks_30d",
+		"category": "attacks",
+		"ips": 83,
+		"common": 1
+	},
+	{
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268568,
@@ -57,30 +63,30 @@
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 867,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656713570,
+		"ips": 656713582,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40272,
-		"common": 1
+		"ips": 40274,
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 147605,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589058,
+		"ips": 9589087,
 		"common": 1
 	},
 	{
@@ -88,6 +94,12 @@
 		"category": "attacks",
 		"ips": 34485678,
 		"common": 2
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1190,
+		"common": 1
 	},
 	{
 		"name": "haley_ssh",
@@ -114,6 +126,12 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227983648,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762686302,
@@ -135,7 +153,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "openbl_180d",
@@ -176,7 +194,25 @@
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
-		"ips": 27025,
-		"common": 2
+		"ips": 24440,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_ntp",
+		"category": "attacks",
+		"ips": 6,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_smb",
+		"category": "attacks",
+		"ips": 2,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 13,
+		"common": 1
 	}
 ]
