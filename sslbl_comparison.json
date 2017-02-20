@@ -1,5 +1,23 @@
 [
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 31325,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 1695,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 26019,
+		"common": 1
+	},
+	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 25293430,
@@ -20,20 +38,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656580439,
-		"common": 76
+		"ips": 656580440,
+		"common": 77
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 43953,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 147141,
-		"common": 76
+		"common": 77
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 21990,
-		"common": 76
+		"common": 77
 	},
 	{
 		"name": "firehol_webserver",
@@ -117,7 +141,7 @@
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 2523,
-		"common": 76
+		"common": 77
 	},
 	{
 		"name": "stopforumspam",
@@ -146,7 +170,13 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 25159,
+		"ips": 25158,
 		"common": 17
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 412,
+		"common": 1
 	}
 ]
