@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 43019,
-		"common": 185
+		"common": 183
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -15,7 +15,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 5967,
-		"common": 52
+		"common": 54
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -57,19 +57,25 @@
 		"name": "blocklist_de_imap",
 		"category": "attacks",
 		"ips": 1744,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 28901,
-		"common": 16
+		"common": 17
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 206,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 2517,
-		"common": 138
+		"common": 136
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -80,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11840,
+		"ips": 11678,
 		"common": 45
 	},
 	{
@@ -105,13 +111,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 3236,
-		"common": 139
+		"common": 137
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 1793,
-		"common": 112
+		"common": 110
 	},
 	{
 		"name": "dragon_sshpauth",
@@ -129,7 +135,7 @@
 		"name": "dronebl_autorooting_worms",
 		"category": "attacks",
 		"ips": 959,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dronebl_irc_drones",
@@ -159,13 +165,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 40960,
-		"common": 64
+		"common": 62
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 20992,
-		"common": 58
+		"common": 56
 	},
 	{
 		"name": "dshield_top_1000",
@@ -177,7 +183,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 25293430,
-		"common": 29
+		"common": 27
 	},
 	{
 		"name": "et_compromised",
@@ -189,7 +195,7 @@
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 29
+		"common": 27
 	},
 	{
 		"name": "firehol_level1",
@@ -207,13 +213,13 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 147868,
-		"common": 179
+		"common": 177
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586292,
-		"common": 82
+		"ips": 9586130,
+		"common": 81
 	},
 	{
 		"name": "firehol_webserver",
@@ -237,7 +243,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 24588,
-		"common": 70
+		"common": 69
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -273,13 +279,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691237,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "iblocklist_level3",
@@ -327,37 +333,37 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 22338,
-		"common": 178
+		"common": 176
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 3816,
-		"common": 178
+		"common": 176
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 31198,
-		"common": 186
+		"common": 184
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 9715,
-		"common": 178
+		"common": 176
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
 		"ips": 774,
-		"common": 178
+		"common": 175
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 16114,
-		"common": 186
+		"common": 184
 	},
 	{
 		"name": "openbl_all",
@@ -405,7 +411,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "sorbs_web",
@@ -441,7 +447,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11565,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "threatcrowd",
@@ -459,13 +465,19 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 24440,
-		"common": 52
+		"common": 51
+	},
+	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 189,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 433,
-		"common": 47
+		"common": 49
 	},
 	{
 		"name": "virbl",
