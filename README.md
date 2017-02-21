@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Tue Feb 21 01:41:26 UTC 2017.
+The following list was automatically generated on Tue Feb 21 01:44:37 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -1316,7 +1316,7 @@ php_bad|[projecthoneypot.org](http://www.projecthoneypot.org/?rf=192670) bad web
 [shunlist](http://iplists.firehol.org/?ipset=shunlist)|[AutoShun.org](http://autoshun.org/) IPs identified as hostile by correlating logs from distributed snort installations running the autoshun plugin|ipv4 hash:ip|500 unique IPs|updated every 4 hours  from [this link](http://www.autoshun.org/files/shunlist.csv)
 [snort_ipfilter](http://iplists.firehol.org/?ipset=snort_ipfilter)|[labs.snort.org](https://labs.snort.org/) supplied IP blacklist (this list seems to be updated frequently, but we found no information about it)|ipv4 hash:ip|24867 unique IPs|updated every 12 hours  from [this link](http://labs.snort.org/feeds/ip-filter.blf)
 [socks_proxy](http://iplists.firehol.org/?ipset=socks_proxy)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|80 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
-[socks_proxy_1d](http://iplists.firehol.org/?ipset=socks_proxy_1d)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|3505 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
+[socks_proxy_1d](http://iplists.firehol.org/?ipset=socks_proxy_1d)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|3507 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
 [socks_proxy_30d](http://iplists.firehol.org/?ipset=socks_proxy_30d)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|28576 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
 [socks_proxy_7d](http://iplists.firehol.org/?ipset=socks_proxy_7d)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|8856 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
 [sorbs_anonymizers](http://iplists.firehol.org/?ipset=sorbs_anonymizers)|[Sorbs.net](https://www.sorbs.net/) List of open HTTP and SOCKS proxies.|ipv4 hash:net|597119 subnets, 609175 unique IPs|
@@ -1337,9 +1337,9 @@ sorbs_block|[Sorbs.net](https://www.sorbs.net/) List of hosts demanding that the
 [sslbl](http://iplists.firehol.org/?ipset=sslbl)|[Abuse.ch SSL Blacklist](https://sslbl.abuse.ch/) bad SSL traffic related to malware or botnet activities|ipv4 hash:ip|73 unique IPs|updated every 30 mins  from [this link](https://sslbl.abuse.ch/blacklist/sslipblacklist.csv)
 [sslbl_aggressive](http://iplists.firehol.org/?ipset=sslbl_aggressive)|[Abuse.ch SSL Blacklist](https://sslbl.abuse.ch/) The aggressive version of the SSL IP Blacklist contains all IPs that SSLBL ever detected being associated with a malicious SSL certificate. Since IP addresses can be reused (e.g. when the customer changes), this blacklist may cause false positives. Hence I highly recommend you to use the standard version instead of the aggressive one.|ipv4 hash:ip|2523 unique IPs|updated every 30 mins  from [this link](https://sslbl.abuse.ch/blacklist/sslipblacklist_aggressive.csv)
 [sslproxies](http://iplists.firehol.org/?ipset=sslproxies)|[SSLProxies.org](http://www.sslproxies.org/) open SSL proxies|ipv4 hash:ip|100 unique IPs|updated every 10 mins  from [this link](http://www.sslproxies.org/)
-[sslproxies_1d](http://iplists.firehol.org/?ipset=sslproxies_1d)|[SSLProxies.org](http://www.sslproxies.org/) open SSL proxies|ipv4 hash:ip|821 unique IPs|updated every 10 mins  from [this link](http://www.sslproxies.org/)
-[sslproxies_30d](http://iplists.firehol.org/?ipset=sslproxies_30d)|[SSLProxies.org](http://www.sslproxies.org/) open SSL proxies|ipv4 hash:ip|3736 unique IPs|updated every 10 mins  from [this link](http://www.sslproxies.org/)
-[sslproxies_7d](http://iplists.firehol.org/?ipset=sslproxies_7d)|[SSLProxies.org](http://www.sslproxies.org/) open SSL proxies|ipv4 hash:ip|1804 unique IPs|updated every 10 mins  from [this link](http://www.sslproxies.org/)
+[sslproxies_1d](http://iplists.firehol.org/?ipset=sslproxies_1d)|[SSLProxies.org](http://www.sslproxies.org/) open SSL proxies|ipv4 hash:ip|824 unique IPs|updated every 10 mins  from [this link](http://www.sslproxies.org/)
+[sslproxies_30d](http://iplists.firehol.org/?ipset=sslproxies_30d)|[SSLProxies.org](http://www.sslproxies.org/) open SSL proxies|ipv4 hash:ip|3737 unique IPs|updated every 10 mins  from [this link](http://www.sslproxies.org/)
+[sslproxies_7d](http://iplists.firehol.org/?ipset=sslproxies_7d)|[SSLProxies.org](http://www.sslproxies.org/) open SSL proxies|ipv4 hash:ip|1805 unique IPs|updated every 10 mins  from [this link](http://www.sslproxies.org/)
 [stopforumspam](http://iplists.firehol.org/?ipset=stopforumspam)|[StopForumSpam.com](http://www.stopforumspam.com) Banned IPs used by forum spammers|ipv4 hash:ip|156017 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/bannedips.zip)
 [stopforumspam_180d](http://iplists.firehol.org/?ipset=stopforumspam_180d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers (last 180 days)|ipv4 hash:ip|278790 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/listed_ip_180.zip)
 [stopforumspam_1d](http://iplists.firehol.org/?ipset=stopforumspam_1d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers in the last 24 hours|ipv4 hash:ip|4086 unique IPs|updated every 1 hour  from [this link](http://www.stopforumspam.com/downloads/listed_ip_1.zip)
