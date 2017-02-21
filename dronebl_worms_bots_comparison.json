@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11969,
+		"ips": 11972,
 		"common": 64
 	},
 	{
@@ -200,31 +200,31 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 7049,
+		"ips": 7046,
 		"common": 25
 	},
 	{
 		"name": "botscout",
 		"category": "abuse",
 		"ips": 53,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1061,
+		"ips": 1063,
 		"common": 25
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15066,
+		"ips": 15071,
 		"common": 197
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4883,
+		"ips": 4892,
 		"common": 76
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11600,
+		"ips": 11698,
 		"common": 170
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 56529,
+		"ips": 56370,
 		"common": 1835
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45259,
+		"ips": 45264,
 		"common": 205
 	},
 	{
@@ -554,7 +554,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586399,
+		"ips": 9586406,
 		"common": 389
 	},
 	{
@@ -596,7 +596,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1470,
+		"ips": 1473,
 		"common": 9
 	},
 	{
@@ -878,8 +878,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31189,
-		"common": 133
+		"ips": 31210,
+		"common": 137
 	},
 	{
 		"name": "nullsecure",
@@ -1352,7 +1352,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4366,
+		"ips": 4472,
 		"common": 68
 	},
 	{
@@ -1440,6 +1440,12 @@
 		"common": 22
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 447,
+		"common": 5
+	},
+	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
@@ -1448,8 +1454,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 441,
+		"ips": 435,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 448,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
