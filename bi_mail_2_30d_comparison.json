@@ -74,31 +74,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33403,
+		"ips": 33158,
 		"common": 174
+	},
+	{
+		"name": "blocklist_de_bots",
+		"category": "attacks",
+		"ips": 1610,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1853,
-		"common": 49
+		"ips": 1851,
+		"common": 48
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28046,
-		"common": 173
+		"ips": 27828,
+		"common": 172
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2507,
+		"ips": 2488,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 196,
+		"ips": 195,
 		"common": 18
 	},
 	{
@@ -344,7 +350,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 56044,
+		"ips": 56082,
 		"common": 98
 	},
 	{
@@ -356,7 +362,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43255,
+		"ips": 43065,
 		"common": 176
 	},
 	{
@@ -404,7 +410,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1480,
+		"ips": 1481,
 		"common": 8
 	},
 	{
@@ -998,13 +1004,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 300,
+		"ips": 307,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 174,
+		"ips": 177,
 		"common": 2
 	},
 	{

@@ -80,44 +80,50 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33403,
-		"common": 678
+		"ips": 33158,
+		"common": 677
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9066,
+		"ips": 9061,
 		"common": 6
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 220,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1853,
+		"ips": 1851,
 		"common": 50
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28046,
+		"ips": 27828,
 		"common": 61
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 230,
+		"ips": 231,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2507,
-		"common": 607
+		"ips": 2488,
+		"common": 605
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 196,
-		"common": 81
+		"ips": 195,
+		"common": 80
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -266,7 +272,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7053,
+		"ips": 7055,
 		"common": 4
 	},
 	{
@@ -398,7 +404,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 56044,
+		"ips": 56082,
 		"common": 6
 	},
 	{
@@ -410,7 +416,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43255,
+		"ips": 43065,
 		"common": 737
 	},
 	{
@@ -452,7 +458,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1480,
+		"ips": 1481,
 		"common": 18
 	},
 	{
@@ -1016,19 +1022,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 300,
+		"ips": 307,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 436,
-		"common": 122
+		"ips": 421,
+		"common": 118
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 174,
+		"ips": 177,
 		"common": 2
 	},
 	{
