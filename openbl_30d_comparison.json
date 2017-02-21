@@ -44,8 +44,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 3282,
-		"common": 154
+		"ips": 3278,
+		"common": 153
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -80,25 +80,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30138,
-		"common": 685
+		"ips": 29950,
+		"common": 683
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9088,
+		"ips": 9086,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1928,
-		"common": 56
+		"ips": 1925,
+		"common": 59
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24768,
+		"ips": 24590,
 		"common": 68
 	},
 	{
@@ -110,8 +110,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2482,
-		"common": 604
+		"ips": 2476,
+		"common": 602
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 55765,
+		"ips": 55767,
 		"common": 6
 	},
 	{
@@ -410,8 +410,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40067,
-		"common": 738
+		"ips": 39880,
+		"common": 736
 	},
 	{
 		"name": "firehol_level3",
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 42631,
+		"ips": 42633,
 		"common": 4
 	},
 	{
@@ -1016,31 +1016,37 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 343,
+		"ips": 350,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 41,
+		"ips": 42,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 106,
+		"ips": 112,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 440,
-		"common": 112
+		"ips": 437,
+		"common": 101
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 218,
+		"ips": 217,
 		"common": 4
 	},
 	{
