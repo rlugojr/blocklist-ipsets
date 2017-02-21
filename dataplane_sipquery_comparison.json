@@ -138,6 +138,12 @@
 		"common": 1
 	},
 	{
+		"name": "dataplane_sipinvitation",
+		"category": "attacks",
+		"ips": 50,
+		"common": 12
+	},
+	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 3296,
@@ -146,7 +152,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1806,
+		"ips": 1808,
 		"common": 1
 	},
 	{
@@ -224,7 +230,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 55874,
+		"ips": 55865,
 		"common": 1
 	},
 	{
@@ -254,7 +260,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 42816,
+		"ips": 42764,
 		"common": 1
 	},
 	{
@@ -267,13 +273,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34485869,
-		"common": 73
+		"common": 81
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095550,
-		"common": 48
+		"common": 60
 	},
 	{
 		"name": "greensnow",
@@ -339,13 +345,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 18
+		"common": 26
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 39
+		"common": 47
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -447,7 +453,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34243720,
-		"common": 72
+		"common": 80
 	},
 	{
 		"name": "shunlist",
