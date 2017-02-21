@@ -21,7 +21,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 34130,
-		"common": 124
+		"common": 125
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -33,7 +33,7 @@
 		"name": "blocklist_de_bots",
 		"category": "attacks",
 		"ips": 1541,
-		"common": 104
+		"common": 105
 	},
 	{
 		"name": "blocklist_de_bruteforce",
@@ -135,7 +135,7 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 31775,
-		"common": 341
+		"common": 340
 	},
 	{
 		"name": "cleantalk_new_7d",
@@ -159,7 +159,7 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 44438,
-		"common": 59
+		"common": 60
 	},
 	{
 		"name": "cleantalk_updated_7d",
@@ -236,14 +236,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 56629,
+		"ips": 56572,
 		"common": 755
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 43997,
-		"common": 124
+		"common": 125
 	},
 	{
 		"name": "firehol_level3",
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 43472,
+		"ips": 43415,
 		"common": 755
 	},
 	{
@@ -273,7 +273,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34485642,
-		"common": 202
+		"common": 201
 	},
 	{
 		"name": "gofferje_sip",
@@ -297,7 +297,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 54
+		"common": 55
 	},
 	{
 		"name": "iblocklist_edu",
@@ -345,7 +345,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -447,19 +447,19 @@
 		"name": "proxylists_1d",
 		"category": "anonymizers",
 		"ips": 2426,
-		"common": 81
+		"common": 82
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
 		"ips": 5986,
-		"common": 99
+		"common": 100
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
 		"ips": 3736,
-		"common": 96
+		"common": 97
 	},
 	{
 		"name": "proxyrss",
@@ -471,19 +471,19 @@
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
 		"ips": 2347,
-		"common": 79
+		"common": 80
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
 		"ips": 5859,
-		"common": 99
+		"common": 100
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
 		"ips": 3729,
-		"common": 96
+		"common": 97
 	},
 	{
 		"name": "proxyspy",
@@ -525,19 +525,19 @@
 		"name": "proxz_30d",
 		"category": "anonymizers",
 		"ips": 2124,
-		"common": 67
+		"common": 68
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
 		"ips": 918,
-		"common": 53
+		"common": 54
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34243720,
-		"common": 178
+		"common": 177
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -579,7 +579,7 @@
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
 		"ips": 4530,
-		"common": 123
+		"common": 124
 	},
 	{
 		"name": "ri_web_proxies_7d",
@@ -591,24 +591,30 @@
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 21231,
-		"common": 129
+		"common": 128
+	},
+	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3568,
+		"ips": 3571,
 		"common": 10
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 28653,
+		"ips": 28599,
 		"common": 11
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8892,
+		"ips": 8883,
 		"common": 10
 	},
 	{
@@ -645,7 +651,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -668,7 +674,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3731,
+		"ips": 3730,
 		"common": 811
 	},
 	{
@@ -753,12 +759,12 @@
 		"name": "xroxy_30d",
 		"category": "anonymizers",
 		"ips": 483,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
 		"ips": 241,
-		"common": 23
+		"common": 24
 	}
 ]
