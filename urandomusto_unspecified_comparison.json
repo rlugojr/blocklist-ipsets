@@ -146,13 +146,13 @@
 	{
 		"name": "dataplane_sipinvitation",
 		"category": "attacks",
-		"ips": 42,
+		"ips": 43,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 389,
+		"ips": 384,
 		"common": 39
 	},
 	{
@@ -236,14 +236,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586095,
+		"ips": 9586102,
 		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34485642,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "gofferje_sip",
@@ -309,7 +309,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -374,7 +374,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 143399,
+		"ips": 143408,
 		"common": 3
 	},
 	{
@@ -393,7 +393,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34243720,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "shunlist",
@@ -452,8 +452,26 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 16,
-		"common": 4
+		"ips": 17,
+		"common": 5
+	},
+	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 222,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 445,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 447,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -462,21 +480,33 @@
 		"common": 5
 	},
 	{
+		"name": "urandomusto_rdp",
+		"category": "attacks",
+		"ips": 73,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 10,
-		"common": 3
+		"ips": 11,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 426,
+		"ips": 447,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 447,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 39,
+		"ips": 37,
 		"common": 1
 	},
 	{
