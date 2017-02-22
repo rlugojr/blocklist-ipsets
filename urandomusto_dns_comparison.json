@@ -86,13 +86,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30752,
+		"ips": 30919,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8966,
+		"ips": 8971,
+		"common": 1
+	},
+	{
+		"name": "botscout_30d",
+		"category": "abuse",
+		"ips": 14987,
 		"common": 1
 	},
 	{
@@ -162,9 +168,15 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 219341,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40080,
+		"ips": 40246,
 		"common": 7
 	},
 	{
@@ -176,8 +188,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590798,
-		"common": 1
+		"ips": 9590806,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -324,6 +336,36 @@
 		"common": 2
 	},
 	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 155960,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 278369,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_30d",
+		"category": "abuse",
+		"ips": 61626,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 559451,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 157491,
+		"common": 1
+	},
+	{
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11685,
@@ -344,25 +386,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 357,
+		"ips": 355,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 373,
+		"ips": 352,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 57,
+		"ips": 58,
 		"common": 8
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 137,
+		"ips": 138,
 		"common": 1
 	},
 	{
@@ -374,7 +416,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 228,
+		"ips": 223,
 		"common": 4
 	},
 	{
