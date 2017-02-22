@@ -3,25 +3,25 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 43264,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 6122,
-		"common": 3
-	},
-	{
-		"name": "bruteforceblocker",
-		"category": "attacks",
-		"ips": 1209,
-		"common": 1
+		"common": 4
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 14400,
 		"common": 2
+	},
+	{
+		"name": "dragon_vncprobe",
+		"category": "attacks",
+		"ips": 60,
+		"common": 1
 	},
 	{
 		"name": "dronebl_dns_mx_on_irc",
@@ -45,25 +45,19 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 40192,
-		"common": 3
+		"common": 1
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 19712,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 873,
-		"common": 3
-	},
-	{
-		"name": "et_compromised",
-		"category": "attacks",
-		"ips": 1226,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level1",
@@ -81,7 +75,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 146185,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
@@ -90,22 +84,16 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_bogons",
-		"category": "unrouteable",
-		"ips": 656175779,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 13398,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_comcast",
@@ -183,7 +171,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11685,
-		"common": 3
+		"common": 1
 	},
 	{
 		"name": "threatcrowd",
@@ -192,15 +180,21 @@
 		"common": 1
 	},
 	{
+		"name": "trustedsec_atif",
+		"category": "reputation",
+		"ips": 1395,
+		"common": 1
+	},
+	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 24440,
-		"common": 8
+		"common": 6
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 139,
-		"common": 2
+		"ips": 140,
+		"common": 1
 	}
 ]
