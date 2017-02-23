@@ -3,36 +3,24 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 43386,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 6182,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 14674,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
 		"ips": 2659,
-		"common": 1
-	},
-	{
-		"name": "dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 1
-	},
-	{
-		"name": "dshield_1d",
-		"category": "attacks",
-		"ips": 8960,
 		"common": 1
 	},
 	{
@@ -51,31 +39,7 @@
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 870,
-		"common": 3
-	},
-	{
-		"name": "et_block",
-		"category": "attacks",
-		"ips": 25154169,
-		"common": 1
-	},
-	{
-		"name": "et_dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 1
-	},
-	{
-		"name": "firehol_level1",
-		"category": "attacks",
-		"ips": 656519523,
-		"common": 1
-	},
-	{
-		"name": "firehol_level2",
-		"category": "attacks",
-		"ips": 43924,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
@@ -90,16 +54,16 @@
 		"common": 2
 	},
 	{
-		"name": "greensnow",
-		"category": "attacks",
-		"ips": 1639,
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 656175779,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 13736,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "iblocklist_edu",
@@ -135,12 +99,6 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 2
-	},
-	{
-		"name": "nullsecure",
-		"category": "reputation",
-		"ips": 29439,
 		"common": 1
 	},
 	{
@@ -148,6 +106,12 @@
 		"category": "reputation",
 		"ips": 2114,
 		"common": 2
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2119,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -168,27 +132,15 @@
 		"common": 2
 	},
 	{
-		"name": "threatcrowd",
-		"category": "malware",
-		"ips": 6383,
-		"common": 1
-	},
-	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 24440,
 		"common": 7
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 255,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 158,
+		"ips": 160,
 		"common": 1
 	}
 ]
