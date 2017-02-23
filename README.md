@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Thu Feb 23 17:39:01 UTC 2017.
+The following list was automatically generated on Thu Feb 23 17:40:50 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -283,10 +283,10 @@ bambenek_p2pgoz|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/
 [bi_bruteforce_2_30d](http://iplists.firehol.org/?ipset=bi_bruteforce_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category bruteforce with score above 2 and age less than 30d|ipv4 hash:ip|0 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/bruteforce/2?age=30d)
 [bi_ftp_2_30d](http://iplists.firehol.org/?ipset=bi_ftp_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category ftp with score above 2 and age less than 30d|ipv4 hash:ip|56 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/ftp/2?age=30d)
 [bi_http_2_30d](http://iplists.firehol.org/?ipset=bi_http_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category http with score above 2 and age less than 30d|ipv4 hash:ip|214 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/http/2?age=30d)
-[bi_mail_2_30d](http://iplists.firehol.org/?ipset=bi_mail_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category mail with score above 2 and age less than 30d|ipv4 hash:ip|393 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/mail/2?age=30d)
+[bi_mail_2_30d](http://iplists.firehol.org/?ipset=bi_mail_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category mail with score above 2 and age less than 30d|ipv4 hash:ip|389 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/mail/2?age=30d)
 [bi_proxy_2_30d](http://iplists.firehol.org/?ipset=bi_proxy_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category proxy with score above 2 and age less than 30d|ipv4 hash:ip|0 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/proxy/2?age=30d)
 [bi_sql_2_30d](http://iplists.firehol.org/?ipset=bi_sql_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category sql with score above 2 and age less than 30d|ipv4 hash:ip|0 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/sql/2?age=30d)
-[bi_ssh_2_30d](http://iplists.firehol.org/?ipset=bi_ssh_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category ssh with score above 2 and age less than 30d|ipv4 hash:ip|6213 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/ssh/2?age=30d)
+[bi_ssh_2_30d](http://iplists.firehol.org/?ipset=bi_ssh_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category ssh with score above 2 and age less than 30d|ipv4 hash:ip|6215 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/ssh/2?age=30d)
 [bi_voip_2_30d](http://iplists.firehol.org/?ipset=bi_voip_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category voip with score above 2 and age less than 30d|ipv4 hash:ip|22 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/voip/2?age=30d)
 [bitcoin_blockchain_info](http://iplists.firehol.org/?ipset=bitcoin_blockchain_info)|[Blockchain.info](https://blockchain.info/en/connected-nodes) Bitcoin nodes connected to Blockchain.info.|ipv4 hash:ip|325 unique IPs|updated every 10 mins  from [this link](https://blockchain.info/en/connected-nodes)
 [bitcoin_blockchain_info_1d](http://iplists.firehol.org/?ipset=bitcoin_blockchain_info_1d)|[Blockchain.info](https://blockchain.info/en/connected-nodes) Bitcoin nodes connected to Blockchain.info.|ipv4 hash:ip|632 unique IPs|updated every 10 mins  from [this link](https://blockchain.info/en/connected-nodes)
