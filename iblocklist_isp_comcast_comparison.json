@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11866,
+		"ips": 11848,
 		"common": 34
 	},
 	{
@@ -584,7 +584,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656519268,
+		"ips": 656476004,
 		"common": 14
 	},
 	{
@@ -602,7 +602,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586351,
+		"ips": 9586335,
 		"common": 477
 	},
 	{
@@ -830,7 +830,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31612,
+		"ips": 31488,
 		"common": 15
 	},
 	{
@@ -878,7 +878,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 143667,
+		"ips": 143711,
 		"common": 640
 	},
 	{
@@ -1274,14 +1274,26 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 273,
+		"ips": 279,
 		"common": 5
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 441,
+		"ips": 436,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 440,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 449,
+		"common": 3
 	},
 	{
 		"name": "virbl",

@@ -42,12 +42,6 @@
 		"common": 1
 	},
 	{
-		"name": "dragon_vncprobe",
-		"category": "attacks",
-		"ips": 60,
-		"common": 1
-	},
-	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
 		"ips": 2660,
@@ -99,13 +93,13 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 149491,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34486350,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "greensnow",
@@ -147,7 +141,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_org_microsoft",
@@ -177,19 +171,19 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2133,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2158,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34243720,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sorbs_dul",
@@ -210,33 +204,63 @@
 		"common": 2
 	},
 	{
-		"name": "trustedsec_atif",
-		"category": "reputation",
-		"ips": 1395,
-		"common": 1
-	},
-	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 24440,
-		"common": 6
+		"common": 7
+	},
+	{
+		"name": "urandomusto_dns",
+		"category": "attacks",
+		"ips": 43,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 356,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 273,
-		"common": 2
+		"ips": 279,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 436,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 159,
-		"common": 1
+		"ips": 163,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 36,
+		"ips": 37,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 440,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 449,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 240,
 		"common": 1
 	}
 ]
