@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656519521,
+		"ips": 656519522,
 		"common": 15
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587245,
+		"ips": 9587240,
 		"common": 1
 	},
 	{
@@ -542,20 +542,26 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 39,
+		"ips": 41,
 		"common": 5
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 361,
+		"ips": 360,
 		"common": 7
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 272,
-		"common": 5
+		"ips": 280,
+		"common": 6
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 446,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -566,20 +572,26 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 148,
+		"ips": 152,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 29,
+		"ips": 30,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 426,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 224,
-		"common": 66
+		"ips": 227,
+		"common": 67
 	},
 	{
 		"name": "voipbl",
