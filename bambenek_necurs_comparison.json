@@ -3,18 +3,30 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 336,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656519535,
-		"common": 4
+		"common": 3
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34486234,
+		"common": 1
 	},
 	{
 		"name": "fullbogons",
 		"category": "unrouteable",
 		"ips": 630595656,
+		"common": 1
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 34454,
 		"common": 1
 	},
 	{
@@ -27,6 +39,12 @@
 		"name": "iblocklist_isp_att",
 		"category": "organizations",
 		"ips": 55845128,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
 		"common": 1
 	}
 ]
