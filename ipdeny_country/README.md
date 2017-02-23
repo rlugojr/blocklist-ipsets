@@ -1,5 +1,5 @@
 
-The following list was automatically generated on Wed Feb 22 12:21:48 UTC 2017.
+The following list was automatically generated on Thu Feb 23 12:21:36 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -15,7 +15,6 @@ name|info|type|entries|update|
 [id_country_ad](http://iplists.firehol.org/?ipset=id_country_ad)|Andorra (AD) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|10 subnets, 39936 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_ae](http://iplists.firehol.org/?ipset=id_country_ae)|United Arab Emirates (AE) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|118 subnets, 3724416 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_af](http://iplists.firehol.org/?ipset=id_country_af)|Afghanistan (AF) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|69 subnets, 166912 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
-[id_country_ag](http://iplists.firehol.org/?ipset=id_country_ag)|Antigua and Barbuda (AG) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|15 subnets, 63488 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_ag](http://iplists.firehol.org/?ipset=id_country_ag)|Antigua and Barbuda (AG) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|15 subnets, 63488 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_ai](http://iplists.firehol.org/?ipset=id_country_ai)|Anguilla (AI) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|7 subnets, 8448 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_ai](http://iplists.firehol.org/?ipset=id_country_ai)|Anguilla (AI) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|7 subnets, 8448 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
