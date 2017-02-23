@@ -1029,7 +1029,7 @@
 [ -f 'malwaredomainlist.ipset' ] && /usr/bin/touch --date=@1487265011 'malwaredomainlist.ipset'
 [ -f 'maxmind_proxy_fraud.ipset' ] && /usr/bin/touch --date=@1473500180 'maxmind_proxy_fraud.ipset'
 [ -f 'myip.ipset' ] && /usr/bin/touch --date=@1487766638 'myip.ipset'
-[ -f 'nixspam.ipset' ] && /usr/bin/touch --date=@1487826903 'nixspam.ipset'
+[ -f 'nixspam.ipset' ] && /usr/bin/touch --date=@1487827803 'nixspam.ipset'
 [ -f 'nt_malware_dns.ipset' ] && /usr/bin/touch --date=@1453676702 'nt_malware_dns.ipset'
 [ -f 'nt_malware_http.ipset' ] && /usr/bin/touch --date=@1453676702 'nt_malware_http.ipset'
 [ -f 'nt_malware_irc.ipset' ] && /usr/bin/touch --date=@1453676702 'nt_malware_irc.ipset'
