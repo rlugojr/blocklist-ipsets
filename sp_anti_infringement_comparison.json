@@ -561,7 +561,7 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 256
+		"common": 360
 	},
 	{
 		"name": "dshield_1d",
@@ -782,7 +782,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52868,
+		"ips": 52870,
 		"common": 3672
 	},
 	{
@@ -812,7 +812,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 39744,
+		"ips": 39746,
 		"common": 3625
 	},
 	{
@@ -1626,10 +1626,16 @@
 		"common": 3016
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2565,
-		"common": 32
+		"ips": 2544,
+		"common": 31
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1640,7 +1646,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7279,
+		"ips": 7280,
 		"common": 327
 	},
 	{
@@ -1722,15 +1728,9 @@
 		"common": 19
 	},
 	{
-		"name": "sslproxies",
-		"category": "anonymizers",
-		"ips": 100,
-		"common": 1
-	},
-	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 765,
+		"ips": 766,
 		"common": 11
 	},
 	{
@@ -1742,7 +1742,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2065,
+		"ips": 2066,
 		"common": 84
 	},
 	{
