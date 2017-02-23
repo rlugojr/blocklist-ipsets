@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54311,
+		"ips": 54306,
 		"common": 1
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43283,
+		"ips": 43290,
 		"common": 3471
 	},
 	{
@@ -638,8 +638,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 277,
-		"common": 122
+		"ips": 281,
+		"common": 120
 	},
 	{
 		"name": "openbl_30d",
@@ -840,6 +840,12 @@
 		"common": 4
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 445,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
 		"ips": 153,
@@ -848,13 +854,19 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 441,
-		"common": 25
+		"ips": 445,
+		"common": 27
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 450,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 228,
+		"ips": 231,
 		"common": 3
 	},
 	{
