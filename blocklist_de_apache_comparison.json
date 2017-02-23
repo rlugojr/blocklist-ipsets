@@ -440,7 +440,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54459,
+		"ips": 54461,
 		"common": 1
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22162,
+		"ips": 22163,
 		"common": 30
 	},
 	{
@@ -980,23 +980,29 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 360,
+		"ips": 361,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 267,
-		"common": 19
+		"ips": 272,
+		"common": 21
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 147,
+		"ips": 148,
 		"common": 8
 	},
 	{
 		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 443,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_telnet",
 		"category": "attacks",
 		"ips": 451,
 		"common": 1
@@ -1004,7 +1010,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 218,
+		"ips": 224,
 		"common": 5
 	},
 	{
