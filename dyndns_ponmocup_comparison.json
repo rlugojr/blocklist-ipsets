@@ -9,13 +9,13 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 320,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 123,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -75,13 +75,13 @@
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4519,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "cleantalk_30d",
@@ -129,19 +129,19 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656459636,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9587409,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22311,
-		"common": 214
+		"ips": 22309,
+		"common": 212
 	},
 	{
 		"name": "firehol_webserver",
@@ -171,7 +171,7 @@
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 15669,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_emd",
@@ -186,22 +186,28 @@
 		"common": 20
 	},
 	{
-		"name": "hphosts_mmt",
-		"category": "reputation",
-		"ips": 1168,
+		"name": "hphosts_hfs",
+		"category": "abuse",
+		"ips": 264,
 		"common": 1
 	},
 	{
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1897,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 22964,
 		"common": 31
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 656175779,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_edu",
@@ -231,7 +237,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 22
+		"common": 21
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -273,13 +279,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34243720,
-		"common": 46
+		"common": 45
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5250,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "ransomware_online",
@@ -321,7 +327,7 @@
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "urlvir",
