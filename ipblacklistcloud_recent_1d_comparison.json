@@ -6,22 +6,16 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_de_apache",
+		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 10324,
-		"common": 1
-	},
-	{
-		"name": "blocklist_de_bruteforce",
-		"category": "attacks",
-		"ips": 1829,
+		"ips": 252,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 12832,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "cleantalk_30d",
@@ -39,7 +33,7 @@
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 18400,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -63,13 +57,13 @@
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 22259,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_isp_att",
 		"category": "organizations",
 		"ips": 55845128,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_isp_charter",
@@ -81,7 +75,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_isp_qwest",
@@ -108,6 +102,12 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_pedophiles",
+		"category": "reputation",
+		"ips": 840889,
+		"common": 2
+	},
+	{
 		"name": "ipblacklistcloud_recent",
 		"category": "abuse",
 		"ips": 35,
@@ -116,20 +116,20 @@
 	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 742,
-		"common": 72
+		"ips": 769,
+		"common": 78
 	},
 	{
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
-		"ips": 448,
-		"common": 72
+		"ips": 449,
+		"common": 78
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 506398,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "sorbs_dul",
@@ -147,7 +147,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "sp_anti_infringement",
