@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12754,
+		"ips": 12792,
 		"common": 4
 	},
 	{
@@ -60,22 +60,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 55,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1020,
-		"common": 2
+		"ips": 1000,
+		"common": 4
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15012,
+		"ips": 14992,
 		"common": 94
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4627,
-		"common": 27
+		"ips": 4585,
+		"common": 26
 	},
 	{
 		"name": "cleantalk",
@@ -134,8 +140,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7086,
-		"common": 1
+		"ips": 7056,
+		"common": 2
 	},
 	{
 		"name": "dronebl_anonymizers",
@@ -170,8 +176,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13608,
-		"common": 45
+		"ips": 13594,
+		"common": 46
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -182,13 +188,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52261,
+		"ips": 52410,
 		"common": 445
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45950,
+		"ips": 45943,
 		"common": 38
 	},
 	{
@@ -200,7 +206,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587322,
+		"ips": 9587338,
 		"common": 90
 	},
 	{
@@ -534,9 +540,15 @@
 		"common": 1
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2541,
+		"ips": 2548,
 		"common": 5
 	},
 	{
@@ -548,7 +560,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 6911,
+		"ips": 6900,
 		"common": 6
 	},
 	{
@@ -594,15 +606,9 @@
 		"common": 28
 	},
 	{
-		"name": "sslproxies",
-		"category": "anonymizers",
-		"ips": 100,
-		"common": 1
-	},
-	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 764,
+		"ips": 766,
 		"common": 11
 	},
 	{
