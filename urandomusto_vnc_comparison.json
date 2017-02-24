@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 388,
+		"ips": 396,
 		"common": 2
 	},
 	{
@@ -38,19 +38,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35409,
+		"ips": 35172,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10338,
+		"ips": 10329,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 3864,
+		"ips": 3928,
 		"common": 1
 	},
 	{
@@ -64,6 +64,12 @@
 		"category": "attacks",
 		"ips": 60,
 		"common": 2
+	},
+	{
+		"name": "dronebl_dns_mx_on_irc",
+		"category": "reputation",
+		"ips": 2661,
+		"common": 1
 	},
 	{
 		"name": "dronebl_irc_drones",
@@ -110,7 +116,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46984,
+		"ips": 46766,
 		"common": 3
 	},
 	{
@@ -135,7 +141,7 @@
 		"name": "iblocklist_isp_verizon",
 		"category": "organizations",
 		"ips": 18087936,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level2",
@@ -222,21 +228,15 @@
 		"common": 4
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 448,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 160,
+		"ips": 161,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 437,
+		"ips": 433,
 		"common": 1
 	}
 ]
