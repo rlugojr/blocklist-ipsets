@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52736,
+		"ips": 52784,
 		"common": 1
 	},
 	{
@@ -302,8 +302,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47640,
-		"common": 53
+		"ips": 47916,
+		"common": 54
 	},
 	{
 		"name": "firehol_level3",
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586947,
+		"ips": 9587061,
 		"common": 1
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22233,
+		"ips": 22228,
 		"common": 1
 	},
 	{
@@ -344,8 +344,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1341,
-		"common": 11
+		"ips": 1667,
+		"common": 12
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -590,7 +590,7 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 44,
+		"ips": 45,
 		"common": 6
 	},
 	{
@@ -602,13 +602,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 309,
+		"ips": 308,
 		"common": 9
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 436,
+		"ips": 435,
 		"common": 6
 	},
 	{
@@ -620,20 +620,26 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 152,
+		"ips": 151,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 38,
+		"ips": 39,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 449,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 239,
-		"common": 65
+		"ips": 246,
+		"common": 66
 	},
 	{
 		"name": "voipbl",
