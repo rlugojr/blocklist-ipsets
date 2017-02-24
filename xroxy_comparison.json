@@ -26,7 +26,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12512,
+		"ips": 12473,
 		"common": 1
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 307364,
+		"ips": 307363,
 		"common": 2
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52179,
+		"ips": 52175,
 		"common": 55
 	},
 	{
@@ -158,7 +158,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587142,
+		"ips": 9587104,
 		"common": 15
 	},
 	{
@@ -414,27 +414,21 @@
 		"common": 1
 	},
 	{
-		"name": "sslproxies",
-		"category": "anonymizers",
-		"ips": 100,
-		"common": 1
-	},
-	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 728,
+		"ips": 731,
 		"common": 4
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4140,
+		"ips": 4144,
 		"common": 8
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2027,
+		"ips": 2031,
 		"common": 8
 	},
 	{
@@ -478,6 +472,12 @@
 		"category": "abuse",
 		"ips": 157549,
 		"common": 37
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 447,
+		"common": 2
 	},
 	{
 		"name": "xroxy_1d",
