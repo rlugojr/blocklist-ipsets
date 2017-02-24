@@ -158,7 +158,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12610,
+		"ips": 12607,
 		"common": 68
 	},
 	{
@@ -184,12 +184,6 @@
 		"category": "anonymizers",
 		"ips": 7027,
 		"common": 24
-	},
-	{
-		"name": "bogons",
-		"category": "unroutable",
-		"ips": 592708608,
-		"common": 1
 	},
 	{
 		"name": "botscout",
@@ -249,7 +243,7 @@
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 602645384,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -530,14 +524,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52768,
+		"ips": 52772,
 		"common": 1828
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656476269,
-		"common": 352
+		"common": 351
 	},
 	{
 		"name": "firehol_level2",
@@ -554,13 +548,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587177,
+		"ips": 9587174,
 		"common": 430
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 39660,
+		"ips": 39664,
 		"common": 1811
 	},
 	{
@@ -574,12 +568,6 @@
 		"category": "attacks",
 		"ips": 34486378,
 		"common": 2501
-	},
-	{
-		"name": "fullbogons",
-		"category": "unrouteable",
-		"ips": 630552392,
-		"common": 1
 	},
 	{
 		"name": "gofferje_sip",
@@ -657,7 +645,7 @@
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 602645384,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -672,22 +660,10 @@
 		"common": 274
 	},
 	{
-		"name": "iblocklist_fornonlancomputers",
-		"category": "reputation",
-		"ips": 302055424,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_hijacked",
 		"category": "attacks",
 		"ips": 9145088,
 		"common": 5
-	},
-	{
-		"name": "iblocklist_iana_private",
-		"category": "unroutable",
-		"ips": 51643638,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_aol",
@@ -711,13 +687,13 @@
 		"name": "iblocklist_isp_charter",
 		"category": "organizations",
 		"ips": 6138112,
-		"common": 42
+		"common": 41
 	},
 	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 132
+		"common": 130
 	},
 	{
 		"name": "iblocklist_isp_embarq",
@@ -896,8 +872,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26891,
-		"common": 110
+		"ips": 26191,
+		"common": 105
 	},
 	{
 		"name": "nullsecure",
@@ -1112,26 +1088,26 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 294,
-		"common": 30
+		"ips": 297,
+		"common": 26
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 482,
-		"common": 47
+		"ips": 517,
+		"common": 53
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6261,
+		"ips": 6267,
 		"common": 485
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 482,
-		"common": 47
+		"ips": 517,
+		"common": 53
 	},
 	{
 		"name": "proxz",
@@ -1269,7 +1245,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 73668
+		"common": 73665
 	},
 	{
 		"name": "sorbs_new_spam",
