@@ -69,7 +69,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 35780,
-		"common": 938
+		"common": 937
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -117,7 +117,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 2984,
-		"common": 148
+		"common": 147
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -201,7 +201,7 @@
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1192,
-		"common": 37
+		"common": 36
 	},
 	{
 		"name": "ciarmy",
@@ -326,14 +326,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3453,
-		"common": 157
+		"ips": 3600,
+		"common": 161
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1891,
-		"common": 100
+		"ips": 2027,
+		"common": 102
 	},
 	{
 		"name": "dm_tor",
@@ -356,7 +356,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 313182,
+		"ips": 313196,
 		"common": 168
 	},
 	{
@@ -387,7 +387,7 @@
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
 		"ips": 38731,
-		"common": 65
+		"common": 66
 	},
 	{
 		"name": "dronebl_worms_bots",
@@ -459,7 +459,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1189,
-		"common": 31
+		"common": 30
 	},
 	{
 		"name": "et_dshield",
@@ -500,8 +500,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52448,
-		"common": 216
+		"ips": 52457,
+		"common": 215
 	},
 	{
 		"name": "firehol_level1",
@@ -519,13 +519,13 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 149298,
-		"common": 402
+		"common": 401
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587397,
-		"common": 12817
+		"ips": 9587396,
+		"common": 12816
 	},
 	{
 		"name": "firehol_proxies",
@@ -567,7 +567,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 742,
-		"common": 77
+		"common": 78
 	},
 	{
 		"name": "haley_ssh",
@@ -735,13 +735,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762689479,
-		"common": 536
+		"common": 535
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 419
+		"common": 418
 	},
 	{
 		"name": "iblocklist_level3",
@@ -915,7 +915,7 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 22674,
-		"common": 150
+		"common": 151
 	},
 	{
 		"name": "openbl_1d",
@@ -933,7 +933,7 @@
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 31602,
-		"common": 163
+		"common": 164
 	},
 	{
 		"name": "openbl_60d",
@@ -957,7 +957,7 @@
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 143978,
-		"common": 208
+		"common": 209
 	},
 	{
 		"name": "packetmail",
@@ -1254,9 +1254,15 @@
 		"common": 102
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2524,
+		"ips": 2505,
 		"common": 27
 	},
 	{
@@ -1268,7 +1274,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7012,
+		"ips": 6992,
 		"common": 32
 	},
 	{
@@ -1347,12 +1353,12 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 5
+		"common": 9
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 757,
+		"ips": 755,
 		"common": 35
 	},
 	{
@@ -1364,7 +1370,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2040,
+		"ips": 2036,
 		"common": 50
 	},
 	{
@@ -1436,25 +1442,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1011,
-		"common": 105
+		"ips": 1010,
+		"common": 104
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1072,
+		"ips": 1071,
 		"common": 109
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2558,
+		"ips": 2559,
 		"common": 114
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1388,
+		"ips": 1387,
 		"common": 111
 	},
 	{
@@ -1467,7 +1473,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 24440,
-		"common": 62
+		"common": 61
 	},
 	{
 		"name": "urandomusto_ftp",
