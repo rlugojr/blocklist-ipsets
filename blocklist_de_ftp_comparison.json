@@ -57,7 +57,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 11468,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -99,6 +99,12 @@
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 15042,
+		"common": 1
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 1200,
 		"common": 1
 	},
 	{
@@ -147,7 +153,7 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 4397,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -204,6 +210,12 @@
 		"common": 1
 	},
 	{
+		"name": "et_compromised",
+		"category": "attacks",
+		"ips": 1189,
+		"common": 1
+	},
+	{
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
@@ -230,7 +242,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656459641,
+		"ips": 656459631,
 		"common": 1
 	},
 	{
@@ -243,13 +255,13 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 148844,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9586143,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "firehol_webclient",
@@ -261,7 +273,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34486479,
-		"common": 49
+		"common": 50
 	},
 	{
 		"name": "gofferje_sip",
@@ -345,7 +357,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -411,7 +423,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34243720,
-		"common": 25
+		"common": 26
 	},
 	{
 		"name": "ransomware_feed",
@@ -447,7 +459,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "sorbs_web",
