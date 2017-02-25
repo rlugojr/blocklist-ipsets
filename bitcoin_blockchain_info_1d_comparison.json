@@ -32,44 +32,44 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 181,
-		"common": 181
+		"ips": 183,
+		"common": 183
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 4202,
-		"common": 371
+		"ips": 4203,
+		"common": 375
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 1532,
-		"common": 371
+		"ips": 1533,
+		"common": 375
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4568,
-		"common": 348
+		"ips": 4570,
+		"common": 355
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5792,
-		"common": 363
+		"ips": 5797,
+		"common": 367
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 19620,
-		"common": 366
+		"ips": 19621,
+		"common": 370
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9563,
-		"common": 365
+		"ips": 9564,
+		"common": 369
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -146,7 +146,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52321,
+		"ips": 52332,
 		"common": 10
 	},
 	{
@@ -164,8 +164,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 148900,
-		"common": 1
+		"ips": 148901,
+		"common": 2
 	},
 	{
 		"name": "firehol_level4",
@@ -177,7 +177,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34486479,
-		"common": 72
+		"common": 75
 	},
 	{
 		"name": "gofferje_sip",
@@ -261,7 +261,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "iblocklist_level3",
@@ -309,12 +309,18 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34243720,
-		"common": 68
+		"common": 71
 	},
 	{
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 17973,
+		"common": 1
+	},
+	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 24183,
 		"common": 1
 	},
 	{
@@ -375,7 +381,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 559078,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "stopforumspam_90d",
@@ -387,7 +393,13 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 553047,
-		"common": 2
+		"common": 3
+	},
+	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 24183,
+		"common": 1
 	},
 	{
 		"name": "tor_exits_30d",
