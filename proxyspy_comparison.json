@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52243,
+		"ips": 52320,
 		"common": 294
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42914,
+		"ips": 42904,
 		"common": 41
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 39137,
+		"ips": 39136,
 		"common": 294
 	},
 	{
@@ -338,8 +338,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36302,
-		"common": 15
+		"ips": 36319,
+		"common": 14
 	},
 	{
 		"name": "proxylists",
@@ -531,24 +531,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 4
+		"common": 7
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1034,
-		"common": 47
+		"ips": 1043,
+		"common": 48
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4460,
+		"ips": 4467,
 		"common": 67
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2332,
+		"ips": 2338,
 		"common": 57
 	},
 	{
@@ -596,8 +596,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 385,
+		"ips": 375,
 		"common": 7
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

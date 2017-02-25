@@ -182,7 +182,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52243,
+		"ips": 52320,
 		"common": 37
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42914,
+		"ips": 42904,
 		"common": 7
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 39137,
+		"ips": 39136,
 		"common": 37
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36302,
+		"ips": 36319,
 		"common": 3
 	},
 	{
@@ -420,21 +420,27 @@
 		"common": 1
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2469,
+		"ips": 2472,
 		"common": 6
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 24251,
+		"ips": 24243,
 		"common": 36
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 6755,
+		"ips": 6761,
 		"common": 18
 	},
 	{
@@ -531,6 +537,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 24440,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 443,
 		"common": 2
 	}
 ]
